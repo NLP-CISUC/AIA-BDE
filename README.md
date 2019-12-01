@@ -1,5 +1,4 @@
-# AIA-BDE
-AIA-BDE corpus of FAQs and variations
+# AIA-BDE corpus
 
 The AIA-BDE corpus has FAQs, in Portuguese, and reformulations of their questions, to be used in the evaluation of Information Retrieval, QA, or task-oriented dialogue systems.
 
