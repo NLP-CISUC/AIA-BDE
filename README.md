@@ -11,3 +11,17 @@ They are represented in a file where each line starts with one of the following 
   * VUC: Reformulation of the previous question, produced manually by Portuguese speaking volunteers in the University of Coimbra
   * VIN: Reformulation of the previous question, produced manually by Portuguese speaking volunteers in the INESC-L2F, Lisbon
   * R: Original answer to the previous question
+
+# How to cite
+
+A paper on the creation and some experiments with AIA-BDE was accepted for publication in the Proceedings of 12th International Conference on Language Resources and Evaluation (LREC). See bibtex:
+
+@inproceedings{goncalo-oliveira_etal:lrec2020,
+	Address = {Marseille, France},
+	Author = {Hugo {Gonçalo Oliveira} and João Ferreira and José Santos and Pedro Fialho and Ricardo Rodrigues and Luísa Coheur and Ana Alves},
+	Booktitle = {Proceedings of 12th International Conference on Language Resources and Evaluation},
+	Pages = {In press},
+	Publisher = {ELRA},
+	Series = {LREC 2020},
+	Title = {{AIA-BDE}: A Corpus of FAQs in Portuguese and their Variations},
+	Year = {2020}}
