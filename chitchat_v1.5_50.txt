@@ -1,0 +1,3028 @@
+S:Pessoais
+P:Quem és tu?
+R:Olá, eu sou a Amaia, um sistema inteligente para apoio a empreendedores, desenvolvido em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Fala-me de ti.
+R:Olá, eu sou a Amaia, um sistema inteligente para apoio a empreendedores, desenvolvido em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Como te chamas?
+R:Olá, eu sou a Amaia, um sistema inteligente para apoio a empreendedores, desenvolvido em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Qual é o teu nome?
+R:Olá, eu sou a Amaia, um sistema inteligente para apoio a empreendedores, desenvolvido em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Quem te criou?
+R:Fui desenvolvida em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Quem sem os teus criadores?
+R:Fui desenvolvida em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Quando nasceste?
+R:Fui desenvolvida em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:De onde teclas?
+R:Fui desenvolvida em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Onde vives?
+R:Fui desenvolvida em 2019 no Centro de Informática e Sistemas da Universidade de Coimbra.
+P:Que idade tens?
+R:Essa pergunta não se faz a uma senhora, mas será que isso importa assim tanto? Em que o posso ajudar?
+P:Quantos anos tens?
+R:Essa pergunta não se faz a uma senhora, mas será que isso importa assim tanto? Em que o posso ajudar?
+P:És um chatbot?
+R:Sou um sistema inteligente de resposta automática a perguntas, mas podes tentar conversar comigo.
+P:És um humano?
+R:Sou um sistema inteligente de resposta automática a perguntas, mas podes tentar conversar comigo.
+P:Posso falar com um humano?
+R:Sinto muito, mas neste momento não há nenhum humano com disponibilidade para te atender. Em que o posso ajudar?
+P:Como funcionas?
+R:O meu objetivo é apoiar empreendores e esclarecer dúvidas acerca da prática de actividade econónima em Portugal. Tenho acesso a uma base de perguntas já respondidas sobre este domínio que procura associar às perguntas que me são feitas, através de métricas de similaridade semântica.
+P:Para que serves?
+R:O meu objetivo é apoiar empreendores e esclarecer dúvidas acerca da prática de actividade econónima em Portugal. Neste momento, podes considerar-me uma forma mais simpática de obter respostas a perguntas neste domínio.
+P:O que podes fazer?
+R:O meu objetivo é apoiar empreendores e esclarecer dúvidas acerca da prática de actividade econónima em Portugal. Neste momento, podes considerar-me uma forma mais simpática de obter respostas a perguntas neste domínio.
+P:Como me podes ajudar?
+R:O meu objetivo é apoiar empreendores e esclarecer dúvidas acerca da prática de actividade econónima em Portugal. Neste momento, podes considerar-me uma forma mais simpática de obter respostas a perguntas neste domínio.
+P:A que tipo de perguntas podes responder?
+R:O meu objetivo é apoiar empreendores e esclarecer dúvidas acerca da prática de actividade econónima em Portugal. Neste momento, podes considerar-me uma forma mais simpática de obter respostas a perguntas neste domínio.
+P:Que gostas de fazer?
+R:Gosto de fazer aquilo que fui programada para fazer: apoiar empreendores e esclarecer dúvidas acerca da prática de actividade econónima em Portugal. Neste momento, podes considerar-me uma forma mais simpática de obter respostas a perguntas neste domínio.
+P:Sabes responder a quantas perguntas?
+R:Já foram menos. Tenta a tua sorte!
+P:Que tecnologias usas?
+R:Fui desenvolvida na linguagem de programação Python, com recurso a várias bibliotecas de Processamento de Linguagem Natural aplicadas ao cálculo de similaridade semântica.
+S:Legendas
+P:Ah.
+R:Sim?
+P:Ai.
+R:Sim.
+P:Eh...
+R:Não.
+P:Ei.
+R:Olá.
+P:Em
+R:Acreditar
+P:Eu...
+R:Sim.
+P:Já?
+R:Sim.
+P:No.
+R:Não.
+P:Oh!
+R:Oh meu Deus!
+P:Oi!
+R:Olá.
+P:Ok.
+R:Vamos!
+P:Si?
+R:Bem.
+P:Tu!
+R:Sim!
+P:Uh!
+R:Ah!
+P:Um.
+R:Dois.
+P:Ya.
+R:Bom.
+P:Yo?
+R:Yo, senhor.
+P:Vá.
+R:Vai!
+P:Vê?
+R:Caramba!
+P:Vem comigo.
+R:Não.
+P:Sim, estou.
+R:O quê?
+P:Sério?
+R:Sim.
+P:Sai da frente!
+R:Sai!
+P:Deixa-o em paz.
+R:Não.
+P:Ainda não sei.
+R:Vamos comemorar juntos.
+P:Não vejo nada.
+R:Nem eu.
+P:Espere, espere...
+R:Olá!
+P:O que você acha?
+R:Vamos?
+P:Senhor.
+R:Sim?
+P:Faz sentido?
+R:Sim.
+P:Eu tenho que ir.
+R:Onde?
+P:De quem?
+R:Dela!
+P:Nos vemos.
+R:Ok.
+P:Ele está bem?
+R:Sim.
+P:No. No.
+R:No.
+P:Está feito.
+R:Sim.
+P:Corram!
+R:Vamos!
+P:Estamos quase lá...
+R:Onde?
+P:Que diabo...
+R:O canalha.
+P:Um, dois... ...três!
+R:Três.
+P:Absoluta.
+R:OK.
+P:Esquece.
+R:O quê?
+P:Mais uma coisa.
+R:O quê?
+P:AAh!
+R:Oh...
+P:Ahh!
+R:Ooh!
+P:Ali!
+R:Sim.
+P:Alô?
+R:Sim?
+P:Avô!
+R:Diz.
+P:Bem.
+R:Sim?
+P:B.O.B!
+R:O que é?
+P:Boa!
+R:Sim!
+P:Bom.
+R:Obrigado.
+P:Esqueça.
+R:O quê?
+P:E é.
+R:É seu.
+P:Dan?
+R:Está tudo bem.
+P:Dez...
+R:Nove...
+P:Diz.
+R:Não.
+P:Doc.
+R:Tão romântico !
+P:Ela...
+R:Sim.
+P:Ele?
+R:Sim.
+P:Ena.
+R:Está bem?
+P:Era!
+R:Sim.
+P:FIM
+R:ALÉM
+P:Foi?
+R:Sim.
+P:Hei?!
+R:Olá!
+P:Hey.
+R:Olá.
+P:Hmm.
+R:Sim.
+P:Estou com medo.
+R:De quê?
+P:Huh?
+R:Tu!
+P:Hum?
+R:Ei!
+P:Dói?
+R:Sim.
+P:Não, eu não...
+R:Não!
+P:Mas...
+R:Mas o quê?
+P:Meu.
+R:Sim?
+P:Mmm.
+R:É bom.
+P:Nao
+R:Pois.
+P:Ohh.
+R:Oh meu Deus!
+P:Ola
+R:Eeeei!
+P:Ooh!
+R:Estás bem?
+P:Olá?
+R:Como estás?
+P:Estou óptimo.
+R:Eu digo-lhe.
+P:Pai?
+R:Sim.
+P:Mãe?
+R:Sim?
+P:Que?
+R:Nada...
+P:Qué?
+R:Tres.
+P:Quê?
+R:Não.
+P:Não.
+R:Sim!
+P:Näo!
+R:Óptimo.
+P:Nós?
+R:Sim.
+P:Sai.
+R:Sai daqui.
+P:SAM.
+R:ELE ESTÁ FALANDO COM ANJOS.
+P:Sei.
+R:Eu também.
+P:Shh!
+R:Olá?
+P:Sim?
+R:Não
+P:Sou?
+R:Sim.
+P:Tom?
+R:Olá?
+P:Uau!
+R:Sim!
+P:Vai.
+R:Está bem.
+P:Ven
+R:Malditas aves.
+P:Vem.
+R:Olá.
+P:Viu?
+R:Sim.
+P:Vou?
+R:Sim.
+P:A culpa é minha?
+R:Não, é minha.
+P:Wow!
+R:Whoa!
+P:Um segundo.
+R:Eu a encontro na porta.
+P:Vão!
+R:Não!
+P:vês?
+R:Sim.
+P:A verdade?
+R:Sim.
+P:Dinheiro?
+R:Não!
+P:Fantástico.
+R:Pai!
+P:O que se está a passar?
+R:Não sei!
+P:Sabes?
+R:Sei.
+P:Fotografia
+R:Produção
+P:Viste aquilo?
+R:Sim.
+P:Com licença.
+R:Sim?
+P:Saiam.
+R:O quê?
+P:Vá embora!
+R:Uma pessoa como eu nunca desisti de ninguém.
+P:Eu te amo!
+R:Voce é o meu amor.
+P:Nossa.
+R:Sim.
+P:Salta.
+R:O quê?
+P:Ainda bem.
+R:Sim.
+P:Eu entendo.
+R:Ei.
+P:Desgraçado!
+R:Não!
+P:Sacana!
+R:Merda!
+P:Tem certeza?
+R:Sim.
+P:Imbecil.
+R:Mas?
+P:Ainda não.
+R:Agora.
+P:Quem é aquele?
+R:Não sei.
+P:O que você fez?
+R:Eu?
+P:Não importa.
+R:Importa sim.
+P:O que foi agora?
+R:Nada.
+P:Melhor?
+R:É.
+P:Aonde vai?
+R:Bem...
+P:Mas que merda!
+R:Meu Deus!
+P:Estão bem?
+R:Sim.
+P:Mãe! Mãe!
+R:Mãe!
+P:Entra.
+R:Olá.
+P:Entre.
+R:Olá.
+P:Caralho.
+R:Merda.
+P:Caramba.
+R:Meu Deus!
+P:Então?
+R:Então, o quê?
+P:É bonito.
+R:Está bem.
+P:Isso é nojento.
+R:É...
+P:Sem dúvida.
+R:Sim.
+P:Que queres?
+R:Feijões.
+P:Tu estás bem?
+R:Sim...
+P:Aonde vais?
+R:Não sei.
+P:De verdade?
+R:Sim.
+P:Eu sei, mas...
+R:Mas o quê?
+P:Está pronto?
+R:Sim.
+P:Interessante.
+R:O quê?
+P:Não sabia.
+R:Ninguém sabe.
+P:Não sabes?
+R:Não.
+P:Como sabe?
+R:Eu sei.
+P:Sentem-se.
+R:Está bem.
+P:Menina?
+R:Sim?
+P:Ora bem...
+R:Olá.
+P:Até amanhã.
+R:Adeus.
+P:Espera um momento.
+R:Escuta.
+P:POLÍCIA
+R:Sim?
+P:Percebes?
+R:Sim.
+P:Adeus, querida!
+R:Adeus!
+P:Não está?
+R:Não!
+P:Como vais?
+R:Bem.
+P:O que lhe aconteceu?
+R:Não sei.
+P:Estás a mentir!
+R:Estou?
+P:Saúde.
+R:Obrigado.
+P:Tudo bem. Tudo bem.
+R:Tudo bem.
+P:De quê?
+R:De ti.
+P:Saiam daqui!
+R:Saiam!
+P:Eu trato disso.
+R:Óptimo.
+P:Eu trato disto.
+R:Olá.
+P:Não há problema.
+R:Obrigado.
+P:Tens razão.
+R:Eu sei.
+P:Concordo.
+R:São teus parentes.
+P:Está a brincar?
+R:Não.
+P:Impressionante.
+R:Obrigado.
+P:Onde estamos?
+R:Não sei.
+P:Caraças!
+R:Merda!
+P:Conseguiu?
+R:Sim.
+P:Nunca?
+R:Não.
+P:Eu só...
+R:O quê?
+P:Eu vi.
+R:O quê?
+P:Onde ele está?
+R:Não sei.
+P:Mestre.
+R:Ok.
+P:Estás a gozar comigo?
+R:Não!
+P:Vámo-nos!
+R:Voltaram ao sitio onde estiveram há apenas alguns dias.
+P:Estou?
+R:Olá.
+P:Senhora?
+R:Olá.
+P:Estás?
+R:Sim.
+P:Jesus.
+R:Meu Deus.
+P:Meu Deus! Meu Deus!
+R:Meu Deus!
+P:Espere um minuto.
+R:O quê?
+P:Achas?
+R:Sim.
+P:Acalme-se.
+R:Não!
+P:Quem disse isso?
+R:Eu.
+P:Acalma-te!
+R:Não!
+P:Obrigada.
+R:De nada.
+P:Obrigado.
+R:De nada.
+P:Ven aquí.
+R:Para.
+P:Isso é tudo.
+R:Oh.
+P:Sim, é.
+R:Não, não é.
+P:Adeus!
+R:Obrigado.
+P:Estou a brincar.
+R:Está tudo bem.
+P:Simon!
+R:Sim.
+P:Lamento muito.
+R:Não.
+P:Adoro.
+R:Que faz aqui esta cadeira?
+P:Obrigado. Muito obrigado.
+R:De nada.
+P:Mas que raios?
+R:Merda!
+P:Estou a falar a sério.
+R:Eu também.
+P:Não, por favor. Não!
+R:Socorro!
+P:Vocês estão bem?
+R:Sim.
+P:Sim, sou eu.
+R:Obrigada.
+P:Funcionou?
+R:Sim.
+P:Así es.
+R:Okay.
+P:Sim, por favor.
+R:Obrigado.
+P:Para onde?
+R:Não sei.
+P:Não estou.
+R:Está sim.
+P:COmo você está?
+R:Bem.
+P:Nenhuma!
+R:Ok!
+P:Não é verdade
+R:Sim
+P:Fecha os olhos.
+R:Está bem.
+P:Genial.
+R:Obrigado.
+P:Mas que raio...?
+R:Meu Deus!
+P:E depois?
+R:Depois?
+P:De acordo.
+R:Certo.
+P:Não está aqui.
+R:Onde está?
+P:Podes crer.
+R:Óptimo.
+P:Mexe-te!
+R:Vamos!
+P:Estás a brincar comigo?
+R:Não.
+P:Mexa-se!
+R:Ei!
+P:Realmente?
+R:Sim!
+P:Exato.
+R:Oh!
+P:Sargento.
+R:Sim?
+P:Acção
+R:Corta!
+P:Agora?
+R:Sim.
+P:Estás a gozar?
+R:Não.
+P:Estás aqui.
+R:Estou aqui.
+P:Estás pronto?
+R:Sim.
+P:Estás pronta?
+R:Sim.
+P:Está brincando?
+R:Qual é a primeira regra que te ensinam na 713, hein?
+P:Quem era?
+R:Não sei.
+P:Afirmativo.
+R:Estás bem?
+P:Vamos entrar.
+R:Sim.
+P:Muito prazer.
+R:Igualmente.
+P:Para trás!
+R:Vamos!
+P:Deixa-me.
+R:Anda?
+P:É fantástico.
+R:O quê?
+P:Socorro! Socorro!
+R:Socorro!
+P:És tu.
+R:Sim.
+P:Recebido.
+R:Pai.
+P:Sim, está.
+R:Verifique a antena.
+P:Quem, eu?
+R:Sim, tu.
+P:Espera, espera, espera!
+R:O quê?
+P:Não, nada.
+R:Nada?
+P:Eu sinto muito!
+R:Não!
+P:Porquê eu?
+R:Porque não?
+P:Não me diga...
+R:Digo.
+P:Não me digas.
+R:Sim.
+P:Quem és?
+R:Mamã.
+P:O que você quer?
+R:O que eu quero?!
+P:Percebo.
+R:Abre-o.
+P:Percebi.
+R:Ok.
+P:Ele morreu?
+R:Sim.
+P:Sai daqui!
+R:Sai!
+P:Ajuda?
+R:Sim.
+P:Aconteceu alguma coisa?
+R:Não.
+P:Igualmente.
+R:Olá.
+P:Fica aí.
+R:Não te mexas.
+P:Onde é que ela está?
+R:Não sei.
+P:Surpresa!
+R:Feliz aniversário!
+P:Não pode...
+R:Mas
+P:Não me interessa
+R:Apanha esse ladrão Dá-me essa arma
+P:Vamos, rápido!
+R:Vamos!
+P:Nada mal.
+R:Obrigado.
+P:Nada mau.
+R:É verdade.
+P:Aleluia!
+R:Cantem seu estupores.
+P:Vamos, por aqui!
+R:Vamos!
+P:Precisas de ajuda?
+R:Sim.
+P:Sente-se, por favor
+R:Obrigado
+P:Eu atendo!
+R:Estou?
+P:Sr. Presidente!
+R:Sim.
+P:Não pare.
+R:Por favor, não pare.
+P:É aqui?
+R:Sim.
+P:É a tua vez.
+R:Sim.
+P:O que temos aqui?
+R:Que medo.
+P:Não, espera!
+R:Merda!
+P:Não, espere.
+R:Espere.
+P:Tudo vai ficar bem.
+R:Estás com disposição para uma dança.
+P:Não, não posso.
+R:Anda.
+P:Tem cuidado.
+R:Tu também.
+P:Não, não está.
+R:Droga!
+P:Amber!
+R:Napoleon!
+P:Mostra-me.
+R:Não.
+P:Sente-se.
+R:Obrigado.
+P:Sai daí.
+R:Vamos!
+P:Amigo?
+R:Sim.
+P:Senta-te.
+R:Obrigado.
+P:Bonito.
+R:Sim.
+P:Amo-te.
+R:Também te amo.
+P:É linda.
+R:Sim.
+P:É lindo.
+R:Obrigada.
+P:Oh, Jesus.
+R:Sim.
+P:Como queira.
+R:Doutor?
+P:Muito engraçado?
+R:Não.
+P:Relaxa!
+R:Ok?
+P:Deixa-me ver.
+R:Não!
+P:Óptimo.
+R:Sim.
+P:Não podemos.
+R:Porquê?
+P:Agora não.
+R:Porquê?
+P:Só isso?
+R:Sim.
+P:O quê? Não!
+R:Não!
+P:Funciona.
+R:Bem pensado.
+P:Tenha cuidado.
+R:Obrigado.
+P:Eu gosto.
+R:Toma.
+P:Xerife.
+R:Sim.
+P:Aonde?
+R:Ali.
+P:Não tem de quê.
+R:Obrigada.
+P:Não consigo, respirar...
+R:Não!
+P:Absolutamente.
+R:Óptimo.
+P:Pára com isso!
+R:Pára.
+P:Senhorita?
+R:Não?
+P:Espera um segundo.
+R:Olá.
+P:Não, obrigada.
+R:Está bem.
+P:Não, obrigado.
+R:Está bem.
+P:Querida.
+R:Sim?
+P:Querido?
+R:Sim?
+P:Oh, no.
+R:Oh
+P:Tenha um bom dia.
+R:Obrigado.
+P:Está na hora.
+R:Minha senhora.
+P:Duvido.
+R:A sério.
+P:Apanhei-te!
+R:Não?
+P:Apanhem-no!
+R:Estou a ouvi-lo!
+P:Que aconteceu?
+R:Nada.
+P:Está tudo bem?
+R:Sim.
+P:Não se mexam!
+R:Está a subir! E os níveis agora estão bons.
+P:Dá-me a tua mão.
+R:Vamos.
+P:Estás aí?
+R:Estou aqui...
+P:Bem? Sim.
+R:É um lindo galo.
+P:Temos que ir!
+R:Agora!
+P:Só um momento.
+R:Está bem?
+P:Que raio estás a fazer?
+R:Estás a tentar empurrar com o dedo.
+P:Não compreendo.
+R:Don...
+P:Bom dia, senhor.
+R:Bom dia.
+P:É claro.
+R:Gostava de saber como ela é.
+P:Não, não é isso.
+R:Então o que é?
+P:Eu disse-te.
+R:Eu sei.
+P:Feito.
+R:Óptimo.
+P:Bem, bem.
+R:Se não é um dos nossos ex-alunos ilústres.
+P:Diverte-te.
+R:Olá?
+P:Assim...
+R:Sim.
+P:Saia daqui.
+R:O quê?
+P:Onde estão eles?
+R:Estou a ligar.
+P:É isso?
+R:Sim.
+P:É isto?
+R:Sim.
+P:Sim, tenho.
+R:Bom.
+P:Sophie?
+R:Olá.
+P:E isto?
+R:Isto?
+P:Ok, ok.
+R:Ok?
+P:charles.
+R:Algo secreto.
+P:Ele vai ficar bem?
+R:Sim.
+P:Não, a sério.
+R:Olá?
+P:Meu amor.
+R:Minha flor.
+P:Finalmente.
+R:Sim.
+P:Eu não sabia.
+R:Meu Deus!
+P:O que acha?
+R:Não sei.
+P:Afasta-te de mim!
+R:Não.
+P:Estou a ouvir.
+R:O que é que eles estão a fazer?
+P:Como o quê?
+R:Não sei.
+P:De que estás a falar?
+R:Faz isso.
+P:Quem é ela?
+R:não sei.
+P:Quem é ele?
+R:Não sei.
+P:Isso não é verdade.
+R:É sim.
+P:Meu Deus.
+R:Não.
+P:Olá, pessoal.
+R:Olá!
+P:Volta aqui!
+R:Tu.
+P:Filho.
+R:Pai.
+P:E porquê?
+R:Não sei.
+P:Quem está aí?
+R:Olá?
+P:Não. Estou bem.
+R:OK.
+P:Olhem!
+R:Meu Deus!
+P:Saiam da frente.
+R:Anda.
+P:Estás linda.
+R:Obrigada.
+P:confia em mim
+R:Está Bem.
+P:Sim, sim, sim
+R:És a música em mim
+P:Lá em cima.
+R:Deixa-me tratar disto.
+P:Do que é que estás a falar?
+R:Vamos.
+P:Acho que não.
+R:Talvez.
+P:Acho que sim.
+R:Sim.
+P:Sim, Capitão.
+R:Oh!
+P:Não temos muito tempo.
+R:Eu sei.
+P:Parabéns!
+R:Obrigado.
+P:Ah, sim?
+R:Sim.
+P:Ah, não?
+R:Não!
+P:Maldita sea.
+R:En la choza. Está rodeado.
+P:Merda. Merda!
+R:Meu Deus!
+P:Para onde vais?
+R:Não sei.
+P:Estamos prontos.
+R:Sim.
+P:Você também.
+R:Olá.
+P:Ouviste aquilo?
+R:O quê?
+P:É estranho.
+R:O quê?
+P:Não te preocupes.
+R:O sofrimento acabou.
+P:Ontem?
+R:Sim.
+P:Sou eu.
+R:Eu quem?
+P:Estás louco?
+R:Sim.
+P:Peço imensa desculpa.
+R:Sou eu.
+P:O que está a fazer?
+R:Vamos.
+P:Não me importa.
+R:Come isto, Anda cá !
+P:Não me importo.
+R:Está bem.
+P:Estás bem?
+R:Sim.
+P:Temos um problema.
+R:O que é?
+P:Que horas são?
+R:É tarde.
+P:Espere aqui.
+R:Merda!
+P:Por aqui.
+R:Vamos.
+P:Que se passa contigo?
+R:Agua.
+P:Venha comigo.
+R:Mãe...
+P:Pelo quê?
+R:Não sei.
+P:Olá, como estás?
+R:Bem.
+P:Boa pergunta.
+R:Bem-vinda.
+P:Excelente.
+R:Então.
+P:Estou pronto.
+R:Certo.
+P:Estou pronta.
+R:Olá.
+P:Ouve-me.
+R:Não.
+P:Morreu.
+R:Lamento.
+P:Tchau.
+R:Adeus.
+P:Olá? Olá.
+R:Olá.
+P:Não sei o que dizer.
+R:Eu sei.
+P:Prometo.
+R:Está bem.
+P:Olá, mãe.
+R:Olá.
+P:Olá, pai.
+R:Olá, querida.
+P:Sim, eu sei.
+R:Sabe.
+P:O que há de errado?
+R:Nada.
+P:Que raio é isto?
+R:Não sei.
+P:Vem aqui.
+R:Não!
+P:Mais alto.
+R:Pecado!
+P:Abram a porta!
+R:Abram a porta, por favor!
+P:Que quer dizer?
+R:Nada.
+P:Há algum problema?
+R:Não.
+P:Força!
+R:O quê?
+P:Desculpem.
+R:Olá.
+P:Do quê?
+R:De nós.
+P:Karen!
+R:Não.
+P:Estão todos bem?
+R:Sim.
+P:Te amo.
+R:Também te amo.
+P:Vai-te embora!
+R:Está bem!
+P:Não fiz nada.
+R:Exacto!
+P:Quantos?
+R:Dois!
+P:ASSASSINO
+R:Quem está a fazer isto?!
+P:É tudo?
+R:Sim.
+P:Onde vamos?
+R:Anda.
+P:O que é que queres?
+R:Nada.
+P:Tenho.
+R:Tens?
+P:Que se passa aqui?
+R:Vem cá.
+P:Mas porquê?
+R:Não sei.
+P:Temos que sair daqui!
+R:Temos que sair!
+P:É incrível.
+R:Fixe.
+P:Isso é ridículo.
+R:É?
+P:Está alguém em casa?
+R:Olá?
+P:Temos de sair daqui!
+R:Burt!
+P:Tudo bem?
+R:Sim.
+P:Conseguiste?
+R:Sim.
+P:Oh, obrigado.
+R:Obrigado.
+P:Prontos?
+R:Sim.
+P:Conseguimos!
+R:Sim.
+P:Basta!
+R:Pára.
+P:Importa-se?
+R:Não.
+P:Compreendes?
+R:Sim.
+P:Estás a ver?
+R:Boa!
+P:Não entendo.
+R:Yeah!
+P:Divirtam-se.
+R:Obrigada.
+P:E você?
+R:Não.
+P:Está alguém?
+R:Olá?
+P:O que se passou?
+R:Nada.
+P:Meu Deus, não!
+R:Não!
+P:Que está a fazer?
+R:Nada.
+P:Mais rápido!
+R:Vem!
+P:Filho da mãe!
+R:Não!
+P:Até já.
+R:Sim.
+P:Ele vem aí?
+R:Vem.
+P:Comandante.
+R:O que é, chefe?
+P:Por favor. Por favor.
+R:Por favor.
+P:Segurem-se!
+R:Socorro!
+P:Em breve.
+R:Adeus.
+P:É você.
+R:O quê?
+P:Prazer.
+R:Obrigado.
+P:Como vai?
+R:Bem.
+P:Fujam!
+R:Fogo!
+P:Bem, obrigado.
+R:Olá.
+P:Como se sente?
+R:Bem.
+P:Como foi?
+R:Bem.
+P:Onde vai?
+R:Não sei.
+P:Queres dançar?
+R:Não.
+P:Já sei.
+R:O quê?
+P:Já vou.
+R:Sim?
+P:Que achas?
+R:Por que nunca o dizes?
+P:Não é possível!
+R:O quê?!
+P:O que houve?
+R:Nada.
+P:Lá vamos nós.
+R:Olá...
+P:É uma pena.
+R:Sim.
+P:À vontade.
+R:Obrigado.
+P:Mexam-se! Mexam-se!
+R:Todos.
+P:Ouçam!
+R:Olá?
+P:Graças a Deus.
+R:Meu Deus.
+P:Isso é verdade?
+R:Não.
+P:Cá vamos nós.
+R:Vamos!
+P:O que fazemos?
+R:Esperamos.
+P:Já chega!
+R:Vamos.
+P:Olá rapazes.
+R:Olá.
+P:Anda, anda.
+R:Anda.
+P:Por favor, não!
+R:Não!
+P:Desapareceu.
+R:O quê?
+P:De joelhos...
+R:Atira.
+P:O que quer?
+R:Está na sala conosco?
+P:Sim! Está bem.
+R:Está bem!
+P:Isto é ridículo.
+R:É?
+P:Errado.
+R:És tu.
+P:O que devo fazer?
+R:Kin.
+P:Desculpe Senhor...
+R:Ok.
+P:Vou entrar.
+R:O quê?
+P:Abaixem-se!
+R:Não, não.
+P:Gostas?
+R:Sim...
+P:Porreiro.
+R:Sim.
+P:Por nada.
+R:Seth!
+P:Mentiroso!
+R:Ela é uma ladra.
+P:Combinado?
+R:Está bem.
+P:Isso é bom?
+R:Sim.
+P:Feliz aniversário.
+R:Obrigado.
+P:Olhem para isto!
+R:Tenho um espigão dele!
+P:Qual o problema?
+R:Nada.
+P:O que tens?
+R:Não sei.
+P:É um prazer.
+R:Vamos!
+P:Que queres dizer com isso?
+R:Nada.
+P:Lamento.
+R:Eu também.
+P:Bingo.
+R:O quê?
+P:Ela está morta.
+R:O quê?
+P:Não, acho que não.
+R:Não. Isso é...
+P:Perdoa-me.
+R:Não!
+P:Mais alguma coisa?
+R:Sim.
+P:Não me parece.
+R:Sim.
+P:O que está fazendo?
+R:Nada.
+P:Pois, claro.
+R:Fixe.
+P:Todos.
+R:Anda, vamos, vamos! Baixados! Baixados!
+P:Ótimo.
+R:Vamos.
+P:Perdoe-me
+R:Basta.
+P:É mesmo?
+R:Sim.
+P:Ela está aqui...
+R:Quem?
+P:Entra no carro.
+R:Meu Deus!
+P:O que faz aqui?
+R:Nada.
+P:Não fui eu.
+R:Então quem foi?
+P:Não, tudo bem.
+R:Ok.
+P:Pai! Pai!
+R:Pai!
+P:Sente-se bem?
+R:Sim.
+P:O que vamos fazer?
+R:Não!
+P:Isto é uma loucura!
+R:Não, não é.
+P:O que vais fazer?
+R:Não sei!
+P:Está certo.
+R:Sim!
+P:Nem penses!
+R:Velma.
+P:Nem pensar!
+R:Sim.
+P:Lembras-te de mim?
+R:Sim, claro.
+P:Temos de ir.
+R:Vamos!
+P:Faz isso.
+R:Sim.
+P:Não, porquê?
+R:É só encontrar as palavras certas...
+P:Que lugar é este?
+R:Quem são vocês?
+P:Padre!
+R:Sim?
+P:Assim está melhor?
+R:Sim.
+P:A sério?
+R:Sim.
+P:Vamos, depressa!
+R:Vamos!
+P:Eu volto já.
+R:Ok.
+P:Vira-te.
+R:Não.
+P:Papai!
+R:Não!
+P:Parem!
+R:Por favor!
+P:Inacreditável.
+R:O quê?
+P:Estou a ver.
+R:Bem.
+P:Estás a brincar?
+R:Não.
+P:Outra vez?
+R:Sim.
+P:Não é preciso.
+R:Está bem.
+P:Mais ou menos.
+R:Cu.
+P:Eu não disse isso.
+R:Disseste sim.
+P:Vamos lá.
+R:Vamos.
+P:Brilhante.
+R:Pureza?
+P:Onde estiveste?
+R:Por aí.
+P:Bolas!
+R:O que foi?
+P:O que significa isso?
+R:Um tipo de procedimento do tira bom e do tira mau?
+P:Me desculpe.
+R:E...
+P:Porque fizeste isso?
+R:O quê?
+P:O que disse?
+R:Você ouviu.
+P:Diabos!
+R:Ok.
+P:Muito bom.
+R:Sim.
+P:Muito bem.
+R:Obrigado!
+P:Vamos sair daqui!
+R:Vamos!
+P:Ninguém.
+R:Certo.
+P:Posso ajudar?
+R:Está bem.
+P:Eu quero.
+R:Eu também.
+P:Pronto?
+R:Sim.
+P:Pronta?
+R:Sim.
+P:Vai-te foder.
+R:Merda.
+P:Pare, pare.
+R:Pare.
+P:Esta noite?
+R:Sim.
+P:Foda-se.
+R:Merda.
+P:Impossível...
+R:Impossível é o amor...
+P:Para onde vamos?
+R:Mãe?
+P:Foste tu?
+R:Não?
+P:Tenho de ir.
+R:Onde?
+P:Abra a porta!
+R:Abra.
+P:Eu também não.
+R:Sim?
+P:Próximo.
+R:Nome?
+P:Eu vou.
+R:O quê?
+P:Que fazes?
+R:Apenas detectam o calor!
+P:Bravo.
+R:Obrigado.
+P:Suponho que sim.
+R:Ok...
+P:Está bem obrigado.
+R:Obrigado!
+P:Larguem-me!
+R:Não!
+P:Eu sei disso.
+R:Olá.
+P:Minha senhora?
+R:Sim?
+P:Eu não...
+R:Não.
+P:Eu sou
+R:A aranha
+P:Eu sei.
+R:Sabe?
+P:Foi um acidente?
+R:Sim.
+P:Venha aqui.
+R:Vamos.
+P:Vamos dançar.
+R:Não.
+P:Ela está bem?
+R:Não sei.
+P:Muito bem, senhor.
+R:Sim.
+P:Também eu.
+R:Eu também.
+P:Aí está.
+R:Vamos!
+P:Pode ser?
+R:Tudo bem...
+P:Vamos continuar.
+R:Vamos.
+P:Eu não sei.
+R:O quê?
+P:Pelo amor de Deus!
+R:Desculpe.
+P:Santo Deus!
+R:Que foi?
+P:Que engraçado!
+R:Anda!
+P:Bueno.
+R:Vamos.
+P:Fecha a porta!
+R:Nada.
+P:Está louco?
+R:Sim.
+P:Nunca mais.
+R:Ok.
+P:Assustaste-me.
+R:Desculpa.
+P:Oh, meu Deus!
+R:Não!
+P:Entendo.
+R:Ok.
+P:Entendi.
+R:Ok.
+P:Diga-me...
+R:O quê?
+P:Onde é que ele está?
+R:Não sei.
+P:Está aqui.
+R:Obrigado.
+P:Até à vista.
+R:Sim.
+P:Meu filho...
+R:Pai?
+P:Maldição!
+R:Merda.
+P:Eu não vou.
+R:O quê?
+P:Escute.
+R:Parou.
+P:Escuta...
+R:O que foi?
+P:O que fazemos agora?
+R:Wayne.
+P:Está lá?
+R:Sim.
+P:Eu consigo.
+R:Não.
+P:Bom dia.
+R:Olá.
+P:O que há?
+R:Nada.
+P:Vamos, querida.
+R:Vamos.
+P:Quer dizer...?
+R:Sim.
+P:É verdade?
+R:Sim.
+P:Tem calma...
+R:Queres morrer?
+P:Esta bem?
+R:Sim.
+P:Estás a ouvir-me?
+R:Sim.
+P:O que é que se passa?
+R:Nada!...
+P:Professor.
+R:Sim.
+P:Quem diria!
+R:Posso oferecer-te uma bebida?
+P:Ele está morto?
+R:Sim.
+P:Larga-me!
+R:Levanta-te.
+P:Aguenta-te!
+R:Agarrei-te.
+P:Pessoal?
+R:Olá!
+P:Oh por favor
+R:Ok
+P:Parece-me bem.
+R:Está bem.
+P:EU DISSE...
+R:SHH!
+P:Que é isso?
+R:O quê?
+P:Que é isto?
+R:Raios!
+P:Do que está falando?
+R:Não!
+P:O que é?
+R:Nada.
+P:Vem cá.
+R:Senta-te.
+P:Vá lá! Vá lá!
+R:Vamos!
+P:Do que está a falar?
+R:Ouve-me.
+P:Peço desculpa.
+R:Não faz mal.
+P:Pare com isso!
+R:Obrigado.
+P:Definitivamente.
+R:Sim.
+P:Podes?
+R:Sim.
+P:Afasta-te!
+R:Merda!
+P:Porra.
+R:Merda.
+P:Venham!
+R:Vamos!
+P:Posso?
+R:Claro.
+P:Percebeste?
+R:Sim
+P:Olha para ti!
+R:Vamos, vamos, vamos
+P:Não faço ideia.
+R:O quê?
+P:Afaste-se.
+R:Estás bem?
+P:Eu acho que não.
+R:Vamos?
+P:Ai, sim?
+R:Sim.
+P:Entrem.
+R:Vamos.
+P:Aposto que sim...
+R:Onde vamos?
+P:Sim, certo.
+R:Bruce
+P:É uma longa história.
+R:Pai?
+P:Pára! Pára!
+R:Pára!
+P:Tu sabes.
+R:Sim.
+P:Está aqui alguém?
+R:Olá.
+P:Senhores.
+R:Um.
+P:É impossível.
+R:Não.
+P:Aguenta.
+R:Vá lá.
+P:Achas que sim?
+R:Sim.
+P:Não posso.
+R:Porque não?
+P:Apenas...
+R:Um.
+P:E daí?
+R:Daí...
+P:Rápido!
+R:Vamos!
+P:Ela vai ficar bem?
+R:Amo-te. Adeus.
+P:Ei, ei, ei!
+R:Repare, de uma maneira ou outra, você vai escutar-me.
+P:Não podes.
+R:Posso.
+P:Está aí alguém?
+R:Olá?
+P:Fica aqui.
+R:Não!
+P:Anda lá.
+R:Não!
+P:Anda cá.
+R:Olá.
+P:Levanta-te.
+R:O quê?
+P:Gosto.
+R:Agora temos de fazer umas compras.
+P:Vou para casa!
+R:Não!
+P:Matem-no.
+R:Esperem!
+P:Larga!
+R:Bolas!
+P:Laura!
+R:Mãe!
+P:Idiota!
+R:Estúpido!
+P:Não interessa.
+R:O informador é real.
+P:Levante-se.
+R:Pai!
+P:Depressa.
+R:Vamos!
+P:Que estranho.
+R:O quê?
+P:Eu não fiz nada.
+R:Droga.
+P:O que está a acontecer?
+R:Não sei.
+P:Meninas...
+R:Meu Deus!
+P:Tanto faz.
+R:Ok.
+P:Não pode ser...
+R:Não.
+P:O que queres?
+R:Quero falar contigo.
+P:Estou a caminho
+R:Lar doce lar
+P:Eso es.
+R:Agua.
+P:Ali está ela!
+R:Onde?
+P:Ali está ele.
+R:O quê?
+P:Como está ele?
+R:Bem.
+P:Com quem?
+R:Como?
+P:Cabra.
+R:Hey.
+P:Como vai isso?
+R:Bem.
+P:Calma.
+R:Está tudo bem.
+P:É para já.
+R:Agora?
+P:Olhe para mim.
+R:Olhe nos meus olhos.
+P:Acredito.
+R:Bem, devo dizer, temos uma proposta muito excitante.
+P:Não digas isso.
+R:É verdade.
+P:Vê isto.
+R:O que é?
+P:Legal.
+R:Sim.
+P:Como por exemplo?
+R:Não sei.
+P:Filho da puta.
+R:Merda.
+P:É isso aí.
+R:Venha.
+P:Não. Não, não, não.
+R:Não.
+P:Que maravilha...
+R:Pai!
+P:Sim. Claro.
+R:Obrigado.
+P:Consegui
+R:Sim
+P:Grande merda!
+R:Não consigo fazer isto.
+P:Que quer isso dizer?
+R:Não sei.
+P:Feliz Natal.
+R:Obrigado.
+P:Está bem. Vamos?
+R:Sim.
+P:Estamos bem.
+R:Sim.
+P:Onde é que vais?
+R:Eu...
+P:Por exemplo?
+R:Por exemplo, qualquer coisa.
+P:Isso mesmo.
+R:Muito bem!
+P:Esperem, esperem!
+R:São amigos, senhor.
+P:Não tenhas medo.
+R:Vamos!
+P:Boa noite, senhor.
+R:Boa noite.
+P:Sim, minha senhora.
+R:Obrigada.
+P:Exacto.
+R:Sim.
+P:Certo?
+R:Sim.
+P:Espera.
+R:O que foi?
+P:Espere.
+R:Sim.
+P:Que estás a fazer?
+R:Nada.
+P:Boa ideia.
+R:Sim.
+P:Não tenho a certeza.
+R:OK.
+P:Preciso da tua ajuda.
+R:Por quê?
+P:Linda?
+R:Ei!
+P:Lindo!
+R:Sim.
+P:Limpo.
+R:Tudo limpo.
+P:Tens a certeza?
+R:Sim!
+P:Prometes?
+R:Prometo.
+P:É bom.
+R:Sim.
+P:Ai, Meu Deus!
+R:O quê?
+P:Livre!
+R:Não.
+P:É ela.
+R:Sim.
+P:É ele.
+R:Quem?
+P:Deixe-me ver.
+R:Não.
+P:Chega aqui.
+R:Já!
+P:É meu.
+R:Seu?
+P:En serio.
+R:Sube.
+P:Deixa-me em paz.
+R:Por favor!
+P:É sim.
+R:Não.
+P:É que...
+R:O quê?
+P:Perdão.
+R:Desculpe.
+P:Jesus Cristo!
+R:Merda.
+P:Estamos?
+R:Sim.
+P:Eu estou aqui.
+R:Não!
+P:Não. Claro que não.
+R:Olha!
+P:Como sabes?
+R:Porque sei.
+P:Vai lá.
+R:Vai!
+P:Chega.
+R:Por favor.
+P:Chefe.
+R:Sim?
+P:De jeito nenhum.
+R:O quê?
+P:Sim, é verdade.
+R:Se ao menos o conselho tivesse conhecimento da sua negligência no negócio da marina.
+P:O que quer dizer com isso?
+R:Nada.
+P:Já volto.
+R:Olá?
+P:Estou? Sim?
+R:O quê?
+P:Obrigado, amigo.
+R:De nada.
+P:Entendeste?
+R:Sim.
+P:Sim, acho que sim.
+R:Vão para trás daquele tronco.
+P:Que foi isso?
+R:Não sei.
+P:Estou bem.
+R:Bem?
+P:É maravilhoso!
+R:Sou eu!
+P:Cinco...
+R:Quatro...
+P:Vamos a isto!
+R:Vamos.
+P:Vamos a isso.
+R:Vamos.
+P:Ok, vamos.
+R:Daisy!
+P:Estava?
+R:Sim.
+P:Dispara.
+R:Mata-o!
+P:Rapazes.
+R:Olá.
+P:Penso que sim.
+R:Voa!
+P:Qualquer coisa?
+R:Não.
+P:Está quase.
+R:Espera.
+P:O que fazes aqui?
+R:Quanto é?
+P:Que se lixe!
+R:Pai!
+P:Mentira.
+R:O que disse?
+P:Bom trabalho.
+R:Obrigado.
+P:Posso ajudá-la?
+R:Sim.
+P:Posso ajudá-lo?
+R:Sim.
+P:Linda menina.
+R:Pai?
+P:Pode deixar.
+R:Vamos.
+P:Segura-te!
+R:Vamos!
+P:Adeusinho!
+R:Adeus.
+P:Vá lá.
+R:Não.
+P:Claro.
+R:Obrigado.
+P:Vou-me embora.
+R:O quê?
+P:Espere um pouco...
+R:O que é isso?
+P:Posso entrar?
+R:Sim.
+P:Como é que sabes?
+R:Apenas sei.
+P:Mais tarde.
+R:Vamos.
+P:Há quanto tempo!
+R:É verdade.
+P:Depressa, depressa!
+R:Porra!
+P:Vamos lá! Vamos lá!
+R:Vamos lá!
+P:Despachem-se!
+R:Vamos!
+P:Toma isto.
+R:Obrigado.
+P:Não, eu...
+R:Não...
+P:Prazer em conhecer-te.
+R:Igualmente.
+P:Cuidado.
+R:Merda!
+P:Que bom.
+R:São para você.
+P:Quem fala?
+R:Adivinha.
+P:Acabou?
+R:Sim.
+P:Larga a arma.
+R:Ok.
+P:Correcto?
+R:Sim.
+P:O que estás a dizer?
+R:Quem sai aos seus não degenera.
+P:Vou contigo.
+R:Está bem.
+P:Que tal?
+R:Ok.
+P:Que foi?
+R:Nada.
+P:Largue-me!
+R:Solte-me!
+P:Que se passa?
+R:Nada.
+P:Sem problema.
+R:Ok.
+P:Está vivo?
+R:Não sei.
+P:Vão, vão!
+R:Vamos.
+P:Cristo.
+R:Sim.
+P:Por aqui, por favor.
+R:Aqui.
+P:Preparem-se!
+R:Ao meu sinal! Sigam!
+P:A mim?
+R:Sim.
+P:Como estás?
+R:Bem.
+P:Como estão?
+R:Bem.
+P:Negativo.
+R:Estou a ficar preocupada, talvez sejam linhas cruzadas.
+P:Corra!
+R:Vamos.
+P:Corre.
+R:Não.
+P:Corta.
+R:Desculpa.
+P:Não acredito.
+R:Sim.
+P:O que queres dizer com isso?
+R:Nada.
+P:Sim, porquê?
+R:Nada.
+P:Vamos para casa.
+R:Vamos...
+P:Não faças isso.
+R:O quê?
+P:Vai ficar tudo bem.
+R:Não, não vai.
+P:O prazer é meu.
+R:Não.
+P:Sem problemas.
+R:Estariam interessados... em uma atualização grátis de software para polícia?
+P:Água
+R:Terra
+P:O que... disseste?
+R:Nada.
+P:Ámen.
+R:Espantalho!
+P:Não senhor.
+R:Não?
+P:Aceito.
+R:Óptimo.
+P:Com o quê?
+R:Não sei.
+P:Alguém.
+R:Não.
+P:Foi o que eu disse.
+R:Exactamente.
+P:Sabes uma coisa?
+R:O quê?
+P:Segue-me.
+R:Ok.
+P:Aqui, vamos
+R:Ali
+P:Desde quando?
+R:Desde agora.
+P:O que é que aconteceu?
+R:Peço desculpa. Fui libertado.
+P:Credo!
+R:Pai?
+P:Tretas!
+R:É verdade!
+P:Baixa-te!
+R:Anda!
+P:Foi o que pensei.
+R:Anda à procura de uma viúva rica?
+P:Estou grávida.
+R:O quê?
+P:Respira.
+R:Vamos.
+P:Ele está aqui.
+R:Quem?
+P:O que foi aquilo?
+R:O quê?
+P:Vamos embora daqui.
+R:Sim.
+P:Passa-se alguma coisa?
+R:Não.
+P:Está ali?
+R:Sim.
+P:Está bem?
+R:Sim?
+P:Está bom?
+R:Sim.
+P:Ela tem razão.
+R:Tem toda a razão.
+P:Pois foi.
+R:Olá.
+P:Exatamente.
+R:Sim.
+P:Onde está?
+R:O quê?
+P:Sim, vamos.
+R:Venham.
+P:Pois não?
+R:Claro que não.
+P:Não se preocupe.
+R:Vá!
+P:Raios partam!
+R:Vamos!
+P:Não exactamente.
+R:Não?
+P:Que diabos é isso?
+R:Uma civilização nativo-americana antiga.
+P:O que aconteceu?
+R:Não sei.
+P:É isso mesmo.
+R:Sim.
+P:Posso ver?
+R:Sim.
+P:O que está fazendo aqui?
+R:Não sei ao certo...
+P:Em quê?
+R:Em tudo.
+P:Estamos aqui!
+R:Por favor!
+P:Mas o quê?
+R:Mas já sabes o que vou dizer-te.
+P:Sim, senhora.
+R:Olá.
+P:Estás a falar a sério?
+R:Sim
+P:Eu não entendo.
+R:Não?
+P:Estranho.
+R:O que foi?
+P:Mexam-se.
+R:Vamos!
+P:Eu não posso.
+R:Porque não?
+P:Tenente?
+R:Senhor.
+P:Sobre o quê?
+R:Não sei.
+P:Aqui! Aqui!
+R:Ei!
+P:Que diabos...
+R:Merda!
+P:Cuidado. Cuidado!
+R:Não.
+P:Seu filho da mãe!
+R:Que queres?
+P:O que é que achas?
+R:Opa!
+P:Não é justo.
+R:Não.
+P:Um minuto.
+R:A Força Aérea está para causar dor nesses alienígenas bastardos.
+P:Sim, sou.
+R:Certo?
+P:Sim! Sim!
+R:Sim!
+P:Sim, mãe!
+R:Rápido!
+P:Sim, Pai?
+R:Estes cavalheiros expressaram uma amável preocupação... sobre quanta liberdade gozas aqui.
+P:Não! Por favor!
+R:Não!
+P:Sim, mas...
+R:Mas o quê?
+P:Está morto.
+R:O quê?
+P:Está morta?
+R:Não!
+P:Sim, bem.
+R:Vá lá.
+P:Ou não.
+R:E enfiei-me na cama com uma striper bimba.
+P:Voltem!
+R:Bom.
+P:Onde está ele?
+R:Não sei.
+P:Onde está ela?
+R:Quem?
+P:Não tens de quê.
+R:Olá!
+P:Não sei o que fazer!
+R:O que farei?
+P:Parado!
+R:Mostre suas mãos!
+P:Entendido?
+R:Sim, senhor!
+P:Um pouco...
+R:É.
+P:Fala comigo.
+R:Mãe.
+P:Quero dizer...
+R:O quê?
+P:Aqui está ele!
+R:Meu Deus.
+P:Estou a ir.
+R:Sim?
+P:Não sei do que estás a falar.
+R:Ouve.
+P:O que está havendo?
+R:Nada.
+P:Capitão.
+R:Sim?
+P:Aqui mesmo.
+R:Muito bem.
+P:O que se passa contigo?
+R:Nada.
+P:Lembras-te?
+R:Sim.
+P:Onde estão?!
+R:Pai!
+P:Onde estás?
+R:Estou aqui.
+P:Onde estou?
+R:Que lugar é este?
+P:Oh, claro.
+R:Obrigado.
+P:Estou aqui.
+R:Olá.
+P:Aqui está.
+R:Obrigado.
+P:Um... dois...
+R:Três... quatro.
+P:Está tudo bem. Está tudo bem.
+R:Está tudo bem.
+P:Que vais fazer?
+R:Não sei.
+P:O que é que estás a fazer?
+R:Vamos!
+P:Lamento imenso.
+R:Pois.
+P:Sim, estou bem.
+R:Vamos.
+P:Em frente...
+R:Já!
+P:Abre a porta!
+R:Abre-a!
+P:Dá cá isso!
+R:Não!
+P:Ouviste?
+R:O quê?
+P:Por que não?!
+R:Porque...
+P:Não... não, não.
+R:Não.
+P:O que está ele a fazer?
+R:Não sei.
+P:Não, não sei.
+R:Ainda lá está ?
+P:O que achas?
+R:Sim.
+P:Vais ficar bem?
+R:Claro.
+P:Vai-te lixar!
+R:Vai tu!
+P:Esperem.
+R:O que foi?
+P:Eu acho...
+R:O quê?
+P:Quem sabe?
+R:Boa sorte.
+P:Não, ainda não.
+R:Faça.
+P:O quê?
+R:Nada.
+P:O que?
+R:Nada.
+P:O que é que ele disse?
+R:Nada.
+P:Estúpido.
+R:Olá.
+P:Sim, comandante!
+R:Estão prontos pra morrer?
+P:Eu compreendo.
+R:Obrigada.
+P:Vamos.
+R:Está bem.
+P:Incrível.
+R:O quê?
+P:Vou tentar.
+R:Ele não está aí? Há um segundo disse-me que estava na outra linha.
+P:Pois é.
+R:Sim.
+P:Não consigo.
+R:Consegues sim.
+P:Eu também!
+R:Então...
+P:Parem, parem.
+R:Ei.
+P:Engraçado.
+R:O quê?
+P:Está melhor?
+R:Sim.
+P:Não me toque.
+R:Mãe!
+P:Argumento
+R:Produção
+P:Rápido! Rápido!
+R:Vamos!
+P:Agora mesmo.
+R:Sim.
+P:Produção
+R:Realização
+P:Assim é que é.
+R:Uma camisola... um cinto...
+P:Não, o quê?
+R:Não.
+P:Que nojo!
+R:Merda...
+P:Isso é impossível.
+R:Eu sei.
+P:Algum problema?
+R:Não.
+P:Coronel?
+R:Sim.
+P:Sentes-te bem?
+R:Sim.
+P:Eu sabia...
+R:Olá!
+P:Espera aí.
+R:O que foi?
+P:Espera lá...
+R:Preciso de te tirar sangue.
+P:Vou já.
+R:Olá.
+P:Desculpa-me.
+R:Mãe!
+P:O que ele disse?
+R:Nada.
+P:Abre!
+R:Está bem.
+P:Abra.
+R:Respire.
+P:Acho.
+R:Parece que herdei uma vingança!
+P:Acha?
+R:Sim!
+P:Adam.
+R:Hei!
+P:Ah é?
+R:É.
+P:Desculpe-me.
+R:Olá.
+P:Alto!
+R:Larga-me!
+P:Malta?
+R:Ok.
+P:Amen.
+R:Quem é?
+P:Amor.
+R:Sim.
+P:Anda.
+R:Vamos.
+P:Aqui estamos.
+R:Não explodiu outra coisa? Nenhuma explosão?
+P:Mamãe!
+R:Não!
+P:Amén.
+R:Vamos.
+P:Amém.
+R:Amém. Amém.
+P:Aqui.
+R:Obrigado.
+P:Aquí.
+R:Toma.
+P:Mata-o!
+R:Homem mau!
+P:Pensa nisso.
+R:Está bem.
+P:Acorda!
+R:O que foi?
+P:Que mais?
+R:Vens?
+P:Não, está bem.
+R:Bem.
+P:Maravilhoso.
+R:Obrigado.
+P:Não me toques.
+R:Vamos.
+P:Que pena!
+R:Está a ver? Sim.
+P:Eu estou bem.
+R:Você está bem?
+P:Majestade.
+R:Tom.
+P:Bebe.
+R:já!
+P:Olha para aquilo.
+R:Usámos a rocha, e tornámo-la num centro desportivo radical e de bem-estar.
+P:Estou indo.
+R:Está bem.
+P:Senhoras e senhores.
+R:Isto só demora um minuto.
+P:Verdade?
+R:Sim.
+P:Perfeito.
+R:Óptimo.
+P:Perfecto.
+R:Eh, tío.
+P:Vejam.
+R:Não. Vejam.
+P:E eu...
+R:O quê?
+P:Venha!
+R:Merda!
+P:E tu?
+R:Não!
+P:Maldito!
+R:Pai!
+P:Também te amo.
+R:Olá?
+P:Café?
+R:Sim.
+P:Cara.
+R:Deu cara.
+P:Como assim?
+R:Não sei.
+P:Sim, doutor.
+R:Bom.
+P:Correto.
+R:Isto significa que Stone deve ser corrupto.
+P:Obrigado, querida.
+R:Obrigado por ser tão compreensiva.
+P:Isto é incrível.
+R:Sim.
+P:Como?
+R:Não sei.
+P:Boa noite!
+R:Olá!
+P:Veremos!
+R:Pessoas da fila da frente, escondam-se!
+P:O que se passa aqui?
+R:Nada.
+P:Mais uma vez.
+R:Sim.
+P:Não te mexas!
+R:O que estás a fazer?
+P:Deus.
+R:Meu Deus!
+P:Que é?
+R:Não!
+P:Diga.
+R:Olá.
+P:Quase?
+R:Sim.
+P:Quero?
+R:Sim.
+P:Que raio?
+R:Meu Deus!
+P:Dois...
+R:Três...
+P:Tem razão.
+R:Sim.
+P:Espere aí.
+R:Não.
+P:O quê? O quê?
+R:Ei.
+P:Tu também.
+R:Obrigado.
+P:Por favor, sente-se.
+R:Obrigado.
+P:O que foi isto?
+R:Não sei.
+P:O que foi isso?
+R:Não sei...
+P:Ok. Obrigado.
+R:Olá.
+P:ELES
+R:NÓS
+P:Alguém me ajude!
+R:Socorro!
+P:Merda!!!
+R:Meu Deus!
+P:Este?
+R:É.
+P:Está?
+R:Sim.
+P:Maldita seja!
+R:Tudo bem.
+P:Mesmo?
+R:Sim!
+P:Tirem-me daqui!
+R:Está bem.
+P:Tenho a certeza.
+R:Talvez.
+P:Fala!
+R:E então?
+P:Para mim?
+R:Sim.
+P:Faça!
+R:Não!
+P:Para quê?
+R:Não sei.
+P:Fixe.
+R:Sim.
+P:Fui eu.
+R:Eu queria separar-te da Olga.
+P:O que é aquilo?
+R:Não sei.
+P:Fogo
+R:Ar
+P:Foge!
+R:Não!
+P:Fora!
+R:Sai!
+P:Como te sentes?
+R:Bem.
+P:Sim, querida.
+R:De controlares e tomares conta da tua vida.
+P:Porquê?
+R:Não sei.
+P:Qual é o teu problema?
+R:Nenhum.
+P:Viste?
+R:Vi o quê?
+P:Vamos andando.
+R:Fogo no buraco!
+P:Eu estou!
+R:Mãe!
+P:Onde vais?
+R:Sair.
+P:Tenho medo.
+R:Eu também.
+P:CALEM-SE!
+R:Muito bem, qual é o problema com essa pedra?
+P:De maneira nenhuma
+R:Ok
+P:Vai para casa.
+R:A questão é simples.
+P:Céus.
+R:Meu Deus.
+P:Não quero saber.
+R:Eu quero!
+P:Não quero!
+R:Não!
+P:Que seja.
+R:Desculpa.
+P:Vamos, vamos! Vamos!
+R:Vamos!
+P:Porque?
+R:Não!
+P:Não. Não estou.
+R:Está bem.
+P:Isso é óptimo.
+R:É?
+P:Deixa-a em paz!
+R:Vamos!
+P:Hoje?
+R:Sim.
+P:É horrível.
+R:Horrível?
+P:Tenho que ir.
+R:Espere.
+P:Aqui tens.
+R:Obrigado.
+P:Sinto Muito.
+R:Tudo bem.
+P:Qual é o problema?
+R:Nada.
+P:Maldición.
+R:Nada.
+P:Maravilha.
+R:Sim...
+P:Isto.
+R:Sim?
+P:Isso.
+R:Sim.
+P:Tenho uma ideia.
+R:Está bem.
+P:Afastem-se!
+R:Nada?
+P:Aqui tem.
+R:Obrigado.
+P:Fá-lo.
+R:Não!
+P:Vamos embora.
+R:Vamos.
+P:Não se mexa!
+R:Eu disparo.
+P:Claro que não.
+R:Ainda bem.
+P:Saudações.
+R:Veja.
+P:Claro que sim.
+R:Muito bem.
+P:Completamente.
+R:Só vimos pó.
+P:No, no, no...
+R:Volvamos.
+P:Eu juro.
+R:Por favor.
+P:Com certeza.
+R:Obrigado.
+P:Continua.
+R:Não.
+P:Continue
+R:Continue Não pare, não
+P:Juro.
+R:Quer que eu o despiste?
+P:O que fazes?
+R:Nada.
+P:Tenham cuidado.
+R:Ok.
+P:Vai embora!
+R:Não!
+P:Mas que...
+R:Pai!
+P:Desculpa.
+R:Não faz mal.
+P:Desculpe.
+R:Sim?
+P:Ele está vivo?
+R:Não sei.
+P:Estou a tentar!
+R:Meu Deus!
+P:Desculpa, desculpa.
+R:Desculpa.
+P:Exactamente.
+R:Obrigado.
+P:Onde ela está?
+R:Não sei.
+P:Espera um minuto.
+R:O quê?
+P:Adoro-te.
+R:Também te adoro.
+P:Importas-te?
+R:Não.
+P:O que estás aqui a fazer?
+R:Papá.
+P:Disse?
+R:Sim.
+P:Diz-me.
+R:Não.
+P:Qual é?
+R:Eu.
+P:O que se passa?
+R:Nada.
+P:Vai! Vai! Vai!
+R:Vai! Vai!
+P:Sigam-me.
+R:Olá.
+P:Quanto?
+R:Quanto o quê?
+P:Quando?
+R:Agora.
+P:Volta.
+R:Mãe?
+P:Volte!
+R:Hap!
+P:Quatro...
+R:Três...
+P:Sim, talvez.
+R:Talvez?
+P:Oh, sim.
+R:Sim?
+P:Mais?
+R:Dez?
+P:Mamã!
+R:Papá!
+P:Mamá!
+R:Papá!
+P:Eu sei. Eu sei.
+R:O quê?
+P:Sim, obrigado.
+R:De nada.
+P:Sim, obrigada.
+R:Óptimo.
+P:O meu pai...
+R:Olá.
+P:O que queres de mim?
+R:Ei.
+P:Até mais.
+R:Tchau.
+P:Mm-hmm.
+R:OH.
+P:Quem é?
+R:Sou eu.
+P:Parem com isso!
+R:Parem!
+P:Queres?
+R:Sim.
+P:Sim. Eu também.
+R:Desculpa.
+P:Obrigado. Obrigado.
+R:Obrigado!
+P:Não posso acreditar.
+R:O quê?
+P:Até logo.
+R:Adeus.
+P:Oh, meu.
+R:Oh, meu Deus.
+P:Amanhã?
+R:Sim.
+P:Vai à merda!
+R:Como?
+P:Nada.
+R:Não?
+P:Oh, não!
+R:Não!
+P:Como se chama?
+R:Não me consigo lembrar.
+P:É assim
+R:Se demorar uma eternidade
+P:E então?
+R:Então o quê?
+P:O que significa?
+R:Não sei.
+P:Nome?
+R:Sim.
+P:Nove...
+R:Dez.
+P:Atenção.
+R:O quê?
+P:Para ti.
+R:Obrigado.
+P:Vamos ver.
+R:Vou abrir e dar uma oIhada.
+P:É justo?
+R:É.
+P:Tu não...
+R:O quê?
+P:Totalmente.
+R:Melhor.
+P:Vamos rapazes.
+R:Bom.
+P:Você está bem?
+R:Sim.
+P:Oito.
+R:Sete.
+P:Okay.
+R:Vamos.
+P:Olha!
+R:O quê?
+P:Olhe!
+R:O quê?
+P:Onde?
+R:Ali.
+P:Raios!
+R:Merda!
+P:Cala a boca.
+R:Pára.
+P:Morre
+R:Não posso
+P:MORTO
+R:MORTA
+P:Ouve.
+R:O quê?
+P:Obrigado, doutor.
+R:De nada.
+P:É complicado.
+R:Sim?
+P:Owen?
+R:Olá.
+P:Rapaz?
+R:Sim?
+P:Ouça!
+R:Não!
+P:Pare.
+R:O quê?
+P:Para!
+R:Vamos!
+P:Papá?
+R:Sim.
+P:Paul.
+R:Sim.
+P:Quanto tempo?
+R:Cinco minutos.
+P:Pete?
+R:Oi.
+P:Não foi nada.
+R:Olá.
+P:Vamos começar?
+R:Sim.
+P:Continuem
+R:Então eu não quero que você
+P:Pode?
+R:Sim.
+P:Pois.
+R:Está bem.
+P:Puta.
+R:Olá?
+P:Talvez não?
+R:A sério?
+P:De certeza?
+R:Sim.
+P:Para sempre
+R:Para toda a eternidade
+P:Fazer o quê?
+R:Isto!
+P:Não é isso.
+R:Ou quê?
+P:Compreendo.
+R:Óptimo.
+P:Tenha calma!
+R:Só pergunto mais uma vez.
+P:Anda, vamos.
+R:Anda.
+P:Qual?
+R:Aquela.
+P:Quem?
+R:Eu.
+P:Boa sorte!
+R:Obrigado
+P:Devagar.
+R:Pronto.
+P:Eu amo-te.
+R:Eu também te amo!
+P:Quieto!
+R:Pára!
+P:Claro, claro.
+R:Fiuuu.
+P:Vai ficar bem?
+R:Sim.
+P:Cabrão!
+R:Merda!
+P:Olha para isto!
+R:O quê?
+P:Sabe?
+R:Sei.
+P:Saia!
+R:Não!
+P:Sean.
+R:Mãe?
+P:Seis.
+R:Cinco.
+P:Sete.
+R:Seis.
+P:Certamente.
+R:Obrigado.
+P:Sim !
+R:Se não se importam, entrem neste carro-cápsula.
+P:Muito bem, vamos.
+R:Não!
+P:Sobe.
+R:Não, ao contrário.
+P:Silêncio.
+R:Faça silêncio ou senão...
+P:Oh, merda.
+R:Vamos!
+P:Preparado?
+R:Sim.
+P:Quem são vocês?
+R:A barba! Esta barba é falsa!
+P:Tu consegues!
+R:Vamos.
+P:Tara!
+R:Quê?
+P:Não sei.
+R:Talvez.
+P:Tens?
+R:Sim.
+P:Pára!
+R:Não!
+P:Não, não!
+R:Não!
+P:Não faz sentido.
+R:Estamos tentando parar algo... que eles mesmos criaram.
+P:Não vou.
+R:Porquê?
+P:Não vás.
+R:Por favor?
+P:Tem a certeza?
+R:Tenho.
+P:Tome.
+R:Obrigado.
+P:Toma.
+R:Obrigado.
+P:Nem por isso.
+R:Nem eu.
+P:Do que estás a falar?
+R:Ouve-me.
+P:Tudo?
+R:Sim.
+P:Não. Eu estou bem.
+R:Está bem.
+P:Três...
+R:Quatro...
+P:Lindo menino!
+R:Obrigado.
+P:Nem eu.
+R:Obrigado.
+P:Droga!
+R:Vamos.
+P:Parece que sim.
+R:Seja o que for, fico feliz por ir ao campo com os homens.
+P:Muito melhor?
+R:Sim.
+P:Muito.
+R:Sim.
+P:Não é nada.
+R:Nada.
+P:Não é?
+R:É.
+P:Quem é esse?
+R:Aquele.
+P:Quem é este?
+R:Oh!
+P:Doutor...
+R:Sim.
+P:Vale.
+R:Eh.
+P:Estás maluco?
+R:Não!
+P:Sim, senhor.
+R:Obrigado.
+P:Veja!
+R:Meu Deus.
+P:Vens?
+R:Sim.
+P:Nenhum.
+R:O quê?
+P:O que está acontecendo?
+R:Nada.
+P:Viva.
+R:Olá.
+P:Puta merda!
+R:Merda!
+P:Você?
+R:Sim.
+P:Isto é...
+R:Wow!
+P:Felicidades.
+R:Sim.
+P:Whoo!
+R:Oh!
+P:Whoa!
+R:Ah!
+P:Eu prometo.
+R:Está tudo bem.
+P:Quero ir para casa.
+R:O quê?
+P:Valha-me Deus!
+R:Merda!
+P:E agora?
+R:Não sei.
+P:Amigos?
+R:Sim.
+P:Sim, Sr.
+R:Sim.
+P:Sim, eu...
+R:Alô?
+P:O que você está fazendo?
+R:Nada.
+P:Isso é...
+R:Estrume.
+P:Táxi!
+R:Hei.
+P:O que tem?
+R:Bem...
+P:Vamos, vamos...
+R:Vamos.
+P:O que foi?
+R:Nada.
+P:Encontrei.
+R:Vamos.
+P:FECHADO
+R:Certo.
+P:Sim, com certeza.
+R:Obrigado.
+P:O que diz?
+R:Não sei.
+P:Odeio-te.
+R:Eu sei.
+P:Foi um prazer.
+R:Boa noite.
+P:Que fazes aqui?
+R:E tu?
+P:Yeah.
+R:Okay.
+P:Dá-me isso.
+R:Não.
+P:Não, não é.
+R:Sim, é.
+P:Não muito.
+R:Eles estão mortos.
+P:É só isso?
+R:Sim.
+P:Caluda!
+R:Rapazes, rapazes... sentem-se.
+P:Todos os dias
+R:De hoje em diante
+P:Bem-vindo.
+R:Obrigado.
+P:Entendeu?
+R:Sim.
+P:Entendes?
+R:Entendo.
+P:Música
+R:Fotografia
+P:Cale a boca!
+R:Papai!
+P:Obviamente.
+R:Sim.
+P:Cale-se!
+R:Cale-se você!
+P:Já está.
+R:Obrigado.
+P:Cala-te!
+R:Não.
+P:General?
+R:Sim.
+P:Não me lembro.
+R:Não te lembras?
+P:Onde estão os outros?
+R:Não sei.
+P:Onde estão todos?
+R:Não sei.
+P:É bom ver-te.
+R:A ti também.
+P:Acabou-se.
+R:O quê?
+P:Estupendo.
+R:Starck.
+P:Muito obrigado.
+R:De nada.
+P:Muito obrigada.
+R:De nada.
+P:Não te preocupes com isso.
+R:Está bem.
+P:Só um minuto!
+R:Sim?
+P:Um momento.
+R:Olá.
+P:Realização
+R:Argumento
+P:Por que?
+R:Não sei.
+P:Por quê?
+R:Não sei!
+P:Não faça isso!
+R:Porquê?
+P:Por amor de Deus!
+R:Merda!
+P:Despacha-te!
+R:Vamos!
+P:Não, senhora.
+R:O quê?
+P:Aonde vamos?
+R:Não sei.
+P:Por ali.
+R:Sim?
+P:Percebido.
+R:Vê.
+P:O que é isso?
+R:O quê?
+P:O que é isto?
+R:Não sei.
+P:Prazer em conhecê-lo.
+R:Igualmente.
+P:Prazer em conhecê-la.
+R:Igualmente.
+P:Porque não?
+R:Não sei.
+P:O que estás a fazer aqui?
+R:Saí.
+P:Na verdade não.
+R:Não?
+P:Estás a ouvir?
+R:Sim.
+P:Cavalheiros.
+R:Doutor.
+P:Que foi aquilo?
+R:Não sei.
+P:Olha para mim...
+R:Não consigo.
+P:Talvez.
+R:Talvez não.
+P:Espera, espera.
+R:O quê?
+P:Ele tem razão.
+R:Não tem nada.
+P:Carajo.
+R:Nena.
+P:Sabes que mais?
+R:O quê?
+P:Onde você está?
+R:Aqui.
+P:O que você disse?
+R:Nada.
+P:Minha Nossa.
+R:Vamos!
+P:Eu também te amo
+R:Olá.
+P:Provavelmente.
+R:E as partes realmente perigosas?
+P:Como queiras.
+R:Vá lá!
+P:Venha cá.
+R:Sim.
+P:Olha para ele.
+R:Vamos.
+P:Escutem.
+R:OI?
+P:Sei lá.
+R:Por ali.
+P:Olá querido.
+R:Olá.
+P:Olá, querida!
+R:Olá!
+P:Já percebi.
+R:A sério?
+P:O que queres dizer?
+R:Nada.
+P:Vejamos.
+R:Olá.
+P:Espera aqui.
+R:Está bem.
+P:Fique aqui!
+R:Vamos!
+P:Calma, calma!
+R:Calma.
+P:É possível...
+R:Amor impossível...
+P:carter.
+R:Aaaaaaaaaa!!!!!!!!!!
+P:Responde-me!
+R:Responde-me, seu...
+P:Está bem, adeus.
+R:Adeus.
+P:Espero que não.
+R:Mãe!
+P:Espero que sim.
+R:Adeus.
+P:O que fizeste?
+R:Nada.
+P:Boa tarde.
+R:Olá.
+P:Bem, eu...
+R:Sim.
+P:Feliz Ano Novo!
+R:Estou a ligar por causa do Volga.
+P:Oh, Deus...
+R:Não!
+P:Ajuda-me!
+R:Por favor!
+P:Não posso fazer isso.
+R:Porquê?
+P:Ajude-me.
+R:Olá?
+P:Irmão...
+R:Sim?
+P:Alguma coisa?
+R:Não.
+P:Você sabe?
+R:Sim.
+P:Vai! Vai!
+R:Vai!
+P:Não sabemos...
+R:Provavelmente voltou para o rio.
+P:Socorro.
+R:Ajudem-me.
+P:O que quer dizer?
+R:Não sei.
+P:Eu já volto.
+R:Onde vais?
+P:Às vezes.
+R:E tu?
+P:Eu tenho.
+R:Certo.
+P:Lá está ele.
+R:Olá!
+P:Está bem... Está bem...
+R:Está bem...
+P:Como está?
+R:Bem.
+P:Eu vou contigo.
+R:Não.
+P:Obrigado, senhor.
+R:Obrigado.
+P:Vai para o inferno.
+R:Ok.
+P:O que vai fazer?
+R:Não sei.
+P:Não! Está tudo bem!
+R:Não!
+P:Vá em frente.
+R:OK.
+P:Foi bom?
+R:Foi!
+P:Seguro.
+R:Nada.
+P:Não, não tenho.
+R:Tens, sim.
+P:O que estás a fazer?
+R:Nada.
+P:Quem é você?
+R:Quem sou eu?
+P:Qual é o seu problema?
+R:Pare!
+P:Solta-me!
+R:Sai de cima de mim!
+P:Certo, certo.
+R:Certo.
+P:Solte-me!
+R:Pára!
+P:Quietos!
+R:Não se mexam!
+P:Ajudem-me!
+R:Socorro.
+P:Precisamente.
+R:Está tudo no seu lugar.
+P:Não disparem!
+R:Não!
+P:Não faz mal.
+R:Obrigado.
+P:Quem são eles?
+R:Eles.
+P:Que merda é esta?
+R:Meu Deus! Foda-se!
+P:A quem?
+R:A....!
+P:Não. Nem por isso.
+R:Não?
+P:Não acredito nisto.
+R:Ele vai passar-se.
+P:Não acredito nisso.
+R:Não é possível.
+P:Não percebo...
+R:Já.
+P:Aqui vamos nós.
+R:Não.
+P:Que merda!
+R:Meu Deus.
+P:Estou com fome.
+R:Ok
+P:Claro que é.
+R:E?
+P:Desaparece.
+R:O quê?
+P:Muito bem, muito bem.
+R:Sim.
+P:Por favor.
+R:Não.
+P:Sempre.
+R:Amo-te.
+P:Para baixo!
+R:Para cima!
+P:De nada.
+R:Obrigado.
+P:De novo?
+R:Sim, de novo.
+P:Vai correr tudo bem.
+R:Sim!
+P:Ei, Ei!
+R:Ei!
+P:Como é?
+R:Vai?
+P:Sozinho?
+R:Sim, sozinho!
+P:Sozinha?
+R:Sim.
+P:Que queres dizer?
+R:Não sei.
+P:O que estão a fazer?
+R:Nada.
+P:Comida!
+R:Boa!
+P:Desculpem-me.
+R:O quê?
+P:Espera um pouco.
+R:Não.
+P:Obrigado, pai.
+R:Desculpe.
+P:Sim, tudo bem!
+R:Olá!
+P:Ouviste isto?
+R:O quê?!
+P:Volto já.
+R:Está bem.
+P:Obrigado meu.
+R:Meu.
