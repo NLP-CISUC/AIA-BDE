@@ -25,6 +25,16 @@ In addition to the previous tags, FAQs are grouped according to their sources, g
 
 * AIA-BDE_3vars_3classes (october 2019): first version of the corpus, comprising 380 FAQs from three sources (Portal Empresa, RJACSR, Alojamento Local) and at least three different types of reformulation for each (VG1, VG2, VUC), though some VIN are also present.
 
+# Other files
+
+* AIA_actividades and AIA_licencas: additional questions and answers, in the same format as AIA-BDE, obtained automatically from spreadsheets provided by AMA.
+
+* AIA_DRE: though formatted as questions and answers, these are descriptions of entries in the Portuguese "Diário da República" related to the services included in the AIA-BDE corpus.
+
+* chitchat: subset of interactions from the Subtle-PT corpus of movie subtitles. Useful, e.g., for dealing with out-of-domain interactions.
+
+
+
 # How to cite
 
 A <a href="https://www.aclweb.org/anthology/2020.lrec-1.669/">paper</a> on the creation of the first version of AIA-BDE and some experiments with this corpus was accepted for publication in the Proceedings of <a href="https://lrec2020.lrec-conf.org">12th International Conference on Language Resources and Evaluation (LREC)</a>. See bibtex:
