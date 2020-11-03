@@ -21,11 +21,13 @@ In addition to the previous tags, FAQs are grouped according to their sources, g
 
 # Versions
 
-* AIA-BDE_v2 (may 2020): second version of the corpus, comprising 855 FAQs from four sources and five types of reformulation.
+* AIA-BDE_v2 (May 2020): second version of the corpus, comprising 855 FAQs from four sources and five types of reformulation.
 
 * AIA-BDE_3vars_3classes (october 2019): first version of the corpus, comprising 380 FAQs from three sources (Portal Empresa, RJACSR, Alojamento Local) and at least three different types of reformulation for each (VG1, VG2, VUC), though some VIN are also present.
 
 # Other files
+
+* AIA-BDE_tipo_pergunta (november 2020): most of the questions of v2, without variations, but with a type and the confidence on this type (field F), according to the manual annotation of five human volunteers.
 
 * AIA_actividades and AIA_licencas: additional questions and answers, in the same format as AIA-BDE, obtained automatically from spreadsheets provided by AMA.
 
