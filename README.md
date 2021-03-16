@@ -20,6 +20,7 @@ In addition to the previous tags, FAQs are grouped according to their sources, g
 * Alojamento Local (Local Accommodation): 56 FAQs 
 
 # Versions
+* AIA-BDE_v2.1 (February 2021): addition of a minority of VUC variations that had been lost in the v2 update.
 
 * AIA-BDE_v2 (May 2020): second version of the corpus, comprising 855 FAQs from four sources and five types of reformulation.
 
