@@ -371,31 +371,31 @@ F:Pré-requisito#0.6,Procedimento#0.4
 P:Para poder funcionar, a minha Empresa de Trabalho Temporário tem de constituir uma caução a favor do IEFP. Para que serve essa caução e qual o seu valor?
 R:As Empresas de Trabalho Temporário constituem obrigatoriamente uma caução a favor do IEFP, que se destina a garantir a sua responsabilidade pelo pagamento das remunerações e demais encargos com os trabalhadores temporários. A caução pode ser prestada por depósito, garantia bancária ou contrato de seguro, e o seu valor corresponde a: 200 x remuneração mínima mensal garantida mais elevada x taxa contributiva global (34,75%), devendo ser anualmente actualizada até 31 de Janeiro, ou até 30 dias após a publicação do diploma de revisão da remuneração mínima mensal garantida. O montante da caução para o ano de 2006 é de € 104.000.05.
 F:Custo#0.6,Definição#0.4
-"P:Que tipos de sociedades podem ser constituídas nos balcões ""Empresa na Hora""?"
+P:Que tipos de sociedades podem ser constituídas nos balcões "Empresa na Hora"?
 R:Podem ser constituídas: Sociedades unipessoais; Sociedades por quotas; Sociedades anónimas.
 F:Definição#0.8
-"P:Há sociedades que não podem ser constituídas nos balcões ""Empresa na Hora""?"
+P:Há sociedades que não podem ser constituídas nos balcões "Empresa na Hora"?
 R:Sim, é o caso das sociedades cuja constituição careça de autorizações prévias para o efeito, das sociedades cujo capital social seja realizado por entradas em espécie, das sociedades anónimas europeias, dos agrupamentos complementares de empresas, das cooperativas e das sociedades civis.
 F:Condição#0.4
-"P:A que balcão de atendimento ""Empresa na Hora"" me devo dirigir?"
+P:A que balcão de atendimento "Empresa na Hora" me devo dirigir?
 R:A qualquer balcão de atendimento “Empresa na Hora”, independentemente do lugar da sede da sociedade que pretende constituir.
 F:Pré-requisito#0.4,Procedimento#0.4
-"P:Quais os pressupostos da constituição de ""Empresa na Hora""?"
+P:Quais os pressupostos da constituição de "Empresa na Hora"?
 R:Nas “Empresas na Hora” a firma poderá ser escolhida de uma lista de expressões de fantasia pré- aprovadas (Bolsa de Firmas) que se encontram para consulta em www.empresanahora.mj.pt e a afectação é efectuada no momento da constituição da sociedade. Também pode optar por constituir a Empresa na Hora com base em Certificado de Admissibilidade previamente aprovado pelo Registo Nacional de Pessoas Colectivas. Por questões técnicas, não é possível constituir a Empresa na Hora com base em denominação aprovada por Certificado de Admissibilidade no dia em que este é emitido. Por outro lado, será ainda necessária a escolha de um dos modelos de pacto social, previamente aprovados e disponíveis no referido website ou nos balcões de atendimento.
 F:Pré-requisito#0.4,Procedimento#0.4
-"P:Para a constituição de uma ""Empresa na Hora"" é necessária a presença de todos os sócios?"
+P:Para a constituição de uma "Empresa na Hora" é necessária a presença de todos os sócios?
 R:Sim. Na constituição da “Empresa na Hora” os sócios devem estar presentes e ser portadores de documento de identificação e do número de identificação fiscal. Caso não possam estar presentes e se façam representar por terceiros, será necessária a apresentação de procuração, de documento de identificação e de número de identificação fiscal do procurador.
 F:Procedimento#0.4
-"P:Posso reservar previamente, de entre as firmas constantes da lista disponível, a firma que pretendo para a minha ""Empresa na Hora""?"
+P:Posso reservar previamente, de entre as firmas constantes da lista disponível, a firma que pretendo para a minha "Empresa na Hora"?
 R:Não. A escolha da firma apenas pode ser efectuada no momento de constituição da “Empresa na Hora”, junto dos respectivos balcões de atendimento.
 F:Condição#0.4,Binário#0.4
-"P:Qual o custo de constituição de uma ""Empresa na Hora""?"
+P:Qual o custo de constituição de uma "Empresa na Hora"?
 R:O custo de constituição de uma sociedade é de € 360, incluindo publicações e atos de registo comercial correspondentes à constituição da sociedade e designação de órgãos sociais ou secretário da sociedade. Sendo que, àquele emolumento poderá acrescer, no caso de constituição de sociedades com entradas de bens imóveis ou móveis ou participações sociais sujeitos a registo: € 50 por imóvel, quota ou participação social; € 30 por cada bem móvel; € 20 por ciclomotor ou motociclo, triciclo ou quadriciclo com cilindrada não superior a 50 cm3 (bens previstos no artigo 25.º, n.º 1.6 do RERN), até ao limite de € 30.000. Fonte: Instituto dos Registos e do Notariado (IRN)
 F:Custo#1
-"P:Quando deverei efectuar o depósito do capital social da ""Empresa na Hora""?"
+P:Quando deverei efectuar o depósito do capital social da "Empresa na Hora"?
 R:Caso o depósito do capital social ainda não tenha sido efectuado no momento da constituição da empresa, os sócios devem declarar, sob sua responsabilidade, que o mesmo será depositado, em dinheiro, no prazo de cinco dias úteis.
 F:Tempo#0.8
-"P:Quando é possível o levantamento do capital social da ""Empresa na Hora""?"
+P:Quando é possível o levantamento do capital social da "Empresa na Hora"?
 R:É possível o levantamento do capital social da “Empresa na Hora”em qualquer momento após a sua constituição.
 F:Tempo#1
 P:A escolha de uma firma pré-aprovada pode limitar de alguma forma o objecto social que pretendo para a minha empresa?
@@ -410,13 +410,13 @@ F:Procedimento#0.6
 P:Em alternativa à entrega de impresso em papel, é possível proceder à entrega electrónica da declaração de início de actividade para efeitos fiscais?
 R:Sim. Os interessados devem para o efeito, no momento da constituição, indicar um Técnico Oficial de Contas (TOC) - bastando para o efeito mencionar o nome, número de inscrição na Ordem dos TOC, número de identificação fiscal e domicílio profissional do mesmo - ou escolher um da Bolsa de Técnicos disponibilizada para o efeito pela Ordem dos TOC. Deste modo, a Declaração de Início de Actividade pode ser apresentada pelo TOC junto dos serviços de administração fiscal de forma desmaterializada via Internet.
 F:Condição#0.4
-"P:Será possível utilizar o processo de constituição da ""Empresa na Hora"" quando os sócios são pessoas colectivas? E se forem pessoas colectivas estrangeiras, existe algum formalismo prévio?"
+P:Será possível utilizar o processo de constituição da "Empresa na Hora" quando os sócios são pessoas colectivas? E se forem pessoas colectivas estrangeiras, existe algum formalismo prévio?
 R:Não existe qualquer tipo de impedimento caso os sócios da sociedade a constituir sejam pessoas colectivas. Em princípio, os documentos necessários são os seguintes: Cartão de Identificação de Pessoa Colectiva – NIPC; Código de Acesso à Certidão Permanente ou, em alternativa, o original da Certidão da Conservatória do Registo Comercial em papel, comprovativa de todas as inscrições em vigor emitida há menos de um ano; Bilhetes de Identidade e Números de Contribuinte dos representantes legais da sociedade; Acta de deliberação da Assembleia Geral ou Conselho de Administração (este documento pode ser dispensado dependendo do que estiver previsto nos estatutos da sociedade); Certidão da Escritura ou documento de Constituição ou pacto social actualizado, passado pela Conservatória do Registo Comercial, a fim de se verificar se é possível a participação da sociedade no processo de constituição de outras sociedades; No que diz respeito às pessoas colectivas estrangeiras serão necessários, devidamente traduzidos (com excepção de quando estiverem redigidos em língua Inglesa, Francesa ou Espanhola e o funcionário dominar essa língua) e legalizados, os seguintes documentos: Documento comprovativo da existência legal da sociedade no país de origem; Estatutos da sociedade; Acta da deliberação da participação da sociedade na constituição de outra; Identificação dos representantes legais da sociedade; Será ainda necessário solicitar, previamente, junto do RNPC um número de pessoa colectiva que identifique a sociedade em Portugal.
 F:Condição#0.6
-"P:Será possível, a cidadãos estrangeiros, a constituição de uma ""Empresa na Hora""? Nestes casos, existe algum formalismo prévio que deva ser respeitado?"
+P:Será possível, a cidadãos estrangeiros, a constituição de uma "Empresa na Hora"? Nestes casos, existe algum formalismo prévio que deva ser respeitado?
 R:Não existe impedimento legal à participação de cidadãos estrangeiros na constituição de sociedades em Portugal. Contudo, existe um requisito prévio que se consubstancia na exigência legal da titularidade de um número de identificação fiscal à data da constituição da sociedade. Existe por vezes, a necessidade de consulta ao Serviço de Estrangeiros e Fronteiras – SEF, por parte dos cidadãos que estejam a residir em Portugal, afim de afastarem qualquer impedimento à sua participação como sócios da sociedade a constituir.
 F:Condição#0.6
-"P:É necessária a presença do Técnico Oficial de Contas no momento da constituição da ""Empresa na Hora""?"
+P:É necessária a presença do Técnico Oficial de Contas no momento da constituição da ""Empresa na Hora""?"
 R:Não. O Técnico Oficial de Contas tem apenas de assinar e apor a sua vinheta nos impressos de declaração de início de actividade. Em alternativa pode no momento da constituição indicar um Técnico Oficial de Contas (bastando para o efeito mencionar o nome, número de inscrição na Câmara dos TOC, número de identificação fiscal e domicílio profissional do mesmo) ou escolher um da Bolsa de TOC, para o efeito disponibilizada pela Câmara dos TOC.
 F:Condição#0.6,Binário#0.4
 P:Qual a vantagem de indicar, desde logo, um Técnico Oficial de Contas?
@@ -425,7 +425,7 @@ F:Vantagem#0.8
 P:Quais os custos associados à escolha de um TOC da Bolsa?
 R:O limite máximo dos honorários relativos à apresentação da Declaração de Início de Actividade é de € 50, ao qual acresce IVA à taxa legal.
 F:Custo#1
-"P:É necessária a presença dos Revisores Oficiais de Contas (efectivo e suplente) na constituição de uma Sociedade Anónima no âmbito da ""Empresa na Hora""?"
+P:É necessária a presença dos Revisores Oficiais de Contas (efectivo e suplente) na constituição de uma Sociedade Anónima no âmbito da "Empresa na Hora"?
 R:Não. Os Revisores Oficiais de Contas, efectivo e suplente, deverão fazer declaração de aceitação do cargo, a qual deverá ser entregue no momento da constituição da empresa.
 F:Pré-requisito#0.4,Binário#0.4
 P:Qual o website onde irão ser feitas as publicações?
@@ -446,7 +446,7 @@ F:Procedimento#0.4
 P:O que devo fazer para obter o registo do Domínio na Internet?
 R:Nada. A FCCN (Fundação para a Computação Científica Nacional) envia para a sede da sua empresa, via postal, carta com o login / password que permitem, através da Internet, assumir a gestão do domínio de Internet entretanto criado.
 F:Procedimento#0.6
-"P:Posso constituir uma ""Empresa na Hora"" com Marca associada?"
+P:Posso constituir uma "Empresa na Hora" com Marca associada?
 R:Sim. A partir de 14 de Julho de 2006, a aquisição do registo de Marca funcionou a título experimental no Registo Nacional de Pessoas Colectivas, nos respectivos postos de atendimento junto dos Centros de Formalidades das Empresas de Lisboa, nas Conservatórias do Registo Comercial de Vila Nova de Gaia e de Coimbra e no respectivo posto de atendimento junto do Centro de Formalidades de Empresas de Coimbra. A partir de 16 de Novembro de 2006 o serviço foi alargado a todos os postos de atendimento "Empresa na Hora""."
 F:Binário#0.6
 P:Posso aderir a um Centro de Arbitragem para conflitos de consumo?
@@ -467,7 +467,7 @@ F:Definição#1
 P:Quem é o franchisado?
 R:Pessoa ou empresa que compra o direito para implantar, operar e administrar o conceito, a marca e os produtos ou serviços cedidas por um franchisador através de uma loja/unidade individual.
 F:Definição#1
-"P:O que significa ""Master franchisado""?"
+P:O que significa "Master franchisado"?
 R:Pessoa ou empresa que adquire os direitos para todo um país ou região e que, além de abrir unidades próprias, pode subfranchisar certos territórios.
 F:Definição#1
 P:A aquisição de uma licença de franchising e investimentos conexos, podem beneficiar de apoios?
@@ -1817,7 +1817,7 @@ F:Definição#1
 P:Em que consiste uma empresa de segurança privada?
 R:A empresa de segurança privada é toda a entidade privada, pessoa singular ou coletiva, devidamente autorizada, cujo objeto social consista exclusivamente na prestação de serviços de segurança privada e que, independentemente da designação que adote, exerça uma atividade de prestação de serviços a terceiros de um ou mais dos serviços na área de: A vigilância de bens móveis e imóveis e o controlo de entrada, presença e saída de pessoas, bem como a prevenção da entrada de armas, substâncias e artigos de uso e porte proibidos ou suscetíveis de provocar atos de violência no interior de edifícios ou outros locais, públicos ou privados, de acesso vedado ou condicionado ao público; A proteção pessoal, sem prejuízo das competências exclusivas atribuídas às forças de segurança; A exploração e a gestão de centrais de receção e monitorização de sinais de alarme e de videovigilância, assim como serviços de resposta cuja realização não seja da competência das forças e serviços de segurança; O transporte, a guarda, o tratamento e a distribuição de fundos e valores e demais objetos que pelo seu valor económico possam requerer proteção especial, sem prejuízo das atividades próprias das instituições financeiras reguladas por norma especial; O rastreio, inspeção e filtragem de bagagens e cargas e o controlo de passageiros no acesso a zonas restritas de segurança nos portos e aeroportos, bem como a prevenção da entrada de armas, substâncias e artigos de uso e porte proibidos ou suscetíveis de provocar atos de violência nos aeroportos, nos portos e no interior de aeronaves e navios, sem prejuízo das competências exclusivas atribuídas às forças e serviços de segurança; A fiscalização de títulos de transporte, sob a supervisão da entidade pública competente ou da entidade titular de uma concessão de transporte público; A elaboração de estudos e planos de segurança e de projetos de organização e montagem de serviços de segurança privada.
 F:Definição#0.8
-"P:O que é a ""Marca na Hora""?"
+P:O que é a "Marca na Hora"?
 R:É a possibilidade de obtenção de uma marca previamente registada a favor do Estado, disponível numa bolsa de marcas.
 F:Definição#1
 P:Como posso adquirir uma Marca na Hora?
@@ -2143,22 +2143,22 @@ F:Condição#0.4
 P:Qual a taxa devida pela comunicação de encerramento?
 R:Não é devida qualquer taxa pela comunicação de encerramento.
 F:Custo#0.8
-"P:A que procedimento está sujeita a exploração, a alteração significativa e a alteração de titularidade de: a) Estabelecimentos de comércio e de armazéns produtos alimentares (identificados na lista I do anexo I do DL n.º 10/2015); b) Estabelecimentos de comércio a retalho que pertençam a uma empresa que utilize uma ou mais insígnias ou estejam integrados num grupo, que disponha, a nível nacional, de uma área de venda acumulada igual ou superior a 30 000 m2, nos casos em que isoladamente considerados tenham uma área de venda inferior a 2 000 m2 e não estejam inseridos em conjuntos comerciais; c) Estabelecimentos de comércio a retalho com área de venda igual ou superior a 2 000 m2 inseridos em conjuntos comerciais; d) Estabelecimentos de comércio a retalho de animais de companhia e respetivos alimentos; e) Estabelecimentos sex shop; f) Atividade de feirantes e de vendedor ambulante; g) A organização de feiras por entidades privadas; h) Exploração de oficinas de manutenção e reparação de veículos automóveis, motociclos e ciclomotores; i) Exploração de oficinas de adaptação e reparação de veículos automóveis utilizadores de gases de petróleo liquefeito (GPL) e gás natural comprimido e liquefeito (GN); j) Exploração de lavandarias; k) Exploração de centros de bronzeamento artificial; l) Exploração de estabelecimentos de colocação de piercings e tatuagens; m) Atividade funerária; n) Exploração de estabelecimentos de restauração ou de bebidas (sem dispensa de requisitos); o) Atividade de restauração ou de bebidas, não sedentária?"
+P:A que procedimento está sujeita a exploração, a alteração significativa e a alteração de titularidade de: a) Estabelecimentos de comércio e de armazéns produtos alimentares (identificados na lista I do anexo I do DL n.º 10/2015); b) Estabelecimentos de comércio a retalho que pertençam a uma empresa que utilize uma ou mais insígnias ou estejam integrados num grupo, que disponha, a nível nacional, de uma área de venda acumulada igual ou superior a 30 000 m2, nos casos em que isoladamente considerados tenham uma área de venda inferior a 2 000 m2 e não estejam inseridos em conjuntos comerciais; c) Estabelecimentos de comércio a retalho com área de venda igual ou superior a 2 000 m2 inseridos em conjuntos comerciais; d) Estabelecimentos de comércio a retalho de animais de companhia e respetivos alimentos; e) Estabelecimentos sex shop; f) Atividade de feirantes e de vendedor ambulante; g) A organização de feiras por entidades privadas; h) Exploração de oficinas de manutenção e reparação de veículos automóveis, motociclos e ciclomotores; i) Exploração de oficinas de adaptação e reparação de veículos automóveis utilizadores de gases de petróleo liquefeito (GPL) e gás natural comprimido e liquefeito (GN); j) Exploração de lavandarias; k) Exploração de centros de bronzeamento artificial; l) Exploração de estabelecimentos de colocação de piercings e tatuagens; m) Atividade funerária; n) Exploração de estabelecimentos de restauração ou de bebidas (sem dispensa de requisitos); o) Atividade de restauração ou de bebidas, não sedentária?
 R:O procedimento é a MCP. P.f. ver resposta à pergunta 2. Aplicação de Sanções: A falta de apresentação de mera comunicação prévia ou o início de atividade após a apresentação da MCP desconforme constitui contraordenação leve, punível com coima (ver valores na Secção XIV).
 F:Procedimento#0.8
 P:Que factos são considerados uma alteração?
 R:Os factos são: alteração de ramo de atividade (CAE) ou da área de venda, área do estabelecimento, capacidade do estabelecimento ou da titularidade do estabelecimento.
 F:Definição#0.8
-"P:A que procedimento está sujeita a exploração, a alteração significativa e a alteração de titularidade de: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015; c) Estabelecimentos de restauração ou de bebidas com uma dispensa dos requisitos?"
+P:A que procedimento está sujeita a exploração, a alteração significativa e a alteração de titularidade de: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015; c) Estabelecimentos de restauração ou de bebidas com uma dispensa dos requisitos?"
 R:O procedimento é a AU. P. f. ver resposta à pergunta 3. As alterações são objeto de averbamento na respetiva autorização. Aplicação de Sanções: A falta de autorização constitui contraordenação muito grave e a falta de averbamento constitui contraordenação grave (ver valores na Secção XIV).
 F:Procedimento#0.8
-"P:Qual o prazo para emissão de autorização dos: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015?"
+P:Qual o prazo para emissão de autorização dos: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015?
 R:Os municípios verificam a conformidade do pedido de autorização no prazo máximo de 5 dias, caso este não tenha sido instruído com todos os elementos devidos podem pedir, uma única vez, os elementos em falta, ao requerente, que tem no máximo 20 dias para o completar. Os municípios decidem sobre o pedido de autorização no prazo de 10 dias contados a partir: a) Da data da receção do parecer contendo o resultado da vistoria da Direção-Geral de Alimentação e Veterinária (DGAV); b) Do termo do prazo para a receção dos pareceres da DGAV (20 dias a contar da data de disponibilização do processo), sempre que a esta não se pronuncie até essa data. Salienta-se o seguinte: a) A exploração dos estabelecimentos identificados nas alíneas a) e b) está sujeita a vistoria da DGAV, desencadeada pelo gestor do procedimento (designado pelo município competente) através do «Balcão do empreendedor»; b) O parecer da DGAV, contendo o resultado da vistoria, é obrigatório e vinculativo, não havendo lugar a deferimento tácito.
 F:Tempo#1
 P:Qual o prazo para emissão de autorização para estabelecimento de restauração ou de bebidas com dispensa de requisitos?
 R:Os municípios verificam a conformidade do pedido de autorização no prazo máximo de 5 dias, caso este não tenha sido instruído com todos os elementos devidos podem pedir, uma única vez, os elementos em falta, ao requerente, que tem no máximo 20 dias para o completar. Os municípios deliberam sobre o pedido de autorização no prazo de 30 dias a contar da receção do requerimento - este prazo fica suspenso caso tenham sido solicitados elementos ao requerente, até à sua receção. Caso o prazo para a deliberação do pedido de autorização tenha terminado sem que o município se pronuncie há deferimento tácito.
 F:Tempo#1
-"P:A que procedimento está sujeita a instalação e alteração significativa de: a) Grandes superfícies comerciais não inseridas em conjuntos comerciais; b) Conjuntos comerciais com área bruta locável igual ou superior a 8 000 m2?"
+P:A que procedimento está sujeita a instalação e alteração significativa de: a) Grandes superfícies comerciais não inseridas em conjuntos comerciais; b) Conjuntos comerciais com área bruta locável igual ou superior a 8 000 m2?
 R:O procedimento é a AC. P.f. ver resposta à pergunta 4. Aplicação de Sanções: A instalação ou a alteração significativa sem a necessária autorização conjunta consubstancia contraordenação muito grave, punível com coima (ver valores na Secção XIV).
 F:Procedimento#0.8
 P:O que são grandes superfícies comerciais?à
