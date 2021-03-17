@@ -416,7 +416,7 @@ F:Condição#0.6
 P:Será possível, a cidadãos estrangeiros, a constituição de uma "Empresa na Hora"? Nestes casos, existe algum formalismo prévio que deva ser respeitado?
 R:Não existe impedimento legal à participação de cidadãos estrangeiros na constituição de sociedades em Portugal. Contudo, existe um requisito prévio que se consubstancia na exigência legal da titularidade de um número de identificação fiscal à data da constituição da sociedade. Existe por vezes, a necessidade de consulta ao Serviço de Estrangeiros e Fronteiras – SEF, por parte dos cidadãos que estejam a residir em Portugal, afim de afastarem qualquer impedimento à sua participação como sócios da sociedade a constituir.
 F:Condição#0.6
-P:É necessária a presença do Técnico Oficial de Contas no momento da constituição da ""Empresa na Hora""?"
+P:É necessária a presença do Técnico Oficial de Contas no momento da constituição da "Empresa na Hora"?
 R:Não. O Técnico Oficial de Contas tem apenas de assinar e apor a sua vinheta nos impressos de declaração de início de actividade. Em alternativa pode no momento da constituição indicar um Técnico Oficial de Contas (bastando para o efeito mencionar o nome, número de inscrição na Câmara dos TOC, número de identificação fiscal e domicílio profissional do mesmo) ou escolher um da Bolsa de TOC, para o efeito disponibilizada pela Câmara dos TOC.
 F:Condição#0.6,Binário#0.4
 P:Qual a vantagem de indicar, desde logo, um Técnico Oficial de Contas?
@@ -447,12 +447,12 @@ P:O que devo fazer para obter o registo do Domínio na Internet?
 R:Nada. A FCCN (Fundação para a Computação Científica Nacional) envia para a sede da sua empresa, via postal, carta com o login / password que permitem, através da Internet, assumir a gestão do domínio de Internet entretanto criado.
 F:Procedimento#0.6
 P:Posso constituir uma "Empresa na Hora" com Marca associada?
-R:Sim. A partir de 14 de Julho de 2006, a aquisição do registo de Marca funcionou a título experimental no Registo Nacional de Pessoas Colectivas, nos respectivos postos de atendimento junto dos Centros de Formalidades das Empresas de Lisboa, nas Conservatórias do Registo Comercial de Vila Nova de Gaia e de Coimbra e no respectivo posto de atendimento junto do Centro de Formalidades de Empresas de Coimbra. A partir de 16 de Novembro de 2006 o serviço foi alargado a todos os postos de atendimento "Empresa na Hora""."
+R:Sim. A partir de 14 de Julho de 2006, a aquisição do registo de Marca funcionou a título experimental no Registo Nacional de Pessoas Colectivas, nos respectivos postos de atendimento junto dos Centros de Formalidades das Empresas de Lisboa, nas Conservatórias do Registo Comercial de Vila Nova de Gaia e de Coimbra e no respectivo posto de atendimento junto do Centro de Formalidades de Empresas de Coimbra. A partir de 16 de Novembro de 2006 o serviço foi alargado a todos os postos de atendimento "Empresa na Hora".
 F:Binário#0.6
 P:Posso aderir a um Centro de Arbitragem para conflitos de consumo?
 R:Sim. No momento da constituição da sua Empresa na Hora pode aderir a um Centro de Arbitragem, se o mesmo existir, tendo em conta, a actividade e a localização da sede da sua empresa.
 F:Binário#0.4
-P:['Posso consultar online as estatísticas de serviços do Instituto dos Registos e do Notariado? ']
+P:Posso consultar online as estatísticas de serviços do Instituto dos Registos e do Notariado?
 R:Sim, poderá consultar online os dados estatísticos dos serviços do Instituto dos Registos e do Notariado (IRN), nomeadamente os tempos médios espera do atendimento presencial e o total de atos e procedimentos de registo comercial realizados, através do site do IRN. A atualização dessa informação é da competência do IRN e encontra-se organizada por áreas de registos.
 F:Binário#0.6
 P:O que é um franchising?
@@ -2149,7 +2149,7 @@ F:Procedimento#0.8
 P:Que factos são considerados uma alteração?
 R:Os factos são: alteração de ramo de atividade (CAE) ou da área de venda, área do estabelecimento, capacidade do estabelecimento ou da titularidade do estabelecimento.
 F:Definição#0.8
-P:A que procedimento está sujeita a exploração, a alteração significativa e a alteração de titularidade de: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015; c) Estabelecimentos de restauração ou de bebidas com uma dispensa dos requisitos?"
+P:A que procedimento está sujeita a exploração, a alteração significativa e a alteração de titularidade de: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015; c) Estabelecimentos de restauração ou de bebidas com uma dispensa dos requisitos?
 R:O procedimento é a AU. P. f. ver resposta à pergunta 3. As alterações são objeto de averbamento na respetiva autorização. Aplicação de Sanções: A falta de autorização constitui contraordenação muito grave e a falta de averbamento constitui contraordenação grave (ver valores na Secção XIV).
 F:Procedimento#0.8
 P:Qual o prazo para emissão de autorização dos: a) Estabelecimentos de comércio e de armazéns de alimentos para animais identificados na lista II do anexo I do DL 10/2015; b) Estabelecimentos de comércio e de armazéns grossistas de géneros alimentícios de origem animal que exijam condições de temperatura controlada identificados na lista III do anexo I do DL 10/2015?
