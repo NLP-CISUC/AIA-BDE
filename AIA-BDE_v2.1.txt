@@ -175,7 +175,7 @@ VIN:Existem sociedades que não se possam constituir usando o serviço de criaç
 R:Sim, é o caso das sociedades anónimas europeias e das sociedades cujo capital seja realizado com recurso a entradas em espécie em que, para a transmissão dos bens com que os sócios entram para a sociedade, seja exigida forma mais solene do que a forma escrita.
 SS:01_empresa online
 SSS:013_Criação da Empresa Online.txt
-P:A partir de onde poder ser acedido o serviço de criação de Empresa Online?
+P:A partir de onde pode ser acedido o serviço de criação de Empresa Online?
 VG1:De onde o serviço de criação de empresas on-line pode ser acessado?
 VG2:Onde o serviço on-line de criação de negócios pode ser acessado?
 VUC:Como posso utilizar o serviço de criação de empresa online?
