@@ -40,7 +40,7 @@ In addition to the previous tags, FAQs are grouped according to their sources, g
 
 # How to cite
 
-A <a href="https://www.aclweb.org/anthology/2020.lrec-1.669/">paper</a> on the creation of the first version of AIA-BDE and some experiments with this corpus was accepted for publication in the Proceedings of <a href="https://lrec2020.lrec-conf.org">12th International Conference on Language Resources and Evaluation (LREC)</a>. See bibtex:
+A <a href="https://www.aclweb.org/anthology/2020.lrec-1.669/">paper</a> on the creation of the first version of AIA-BDE and some experiments with this corpus was published in the Proceedings of <a href="https://lrec2020.lrec-conf.org">12th International Conference on Language Resources and Evaluation (LREC)</a>. See BibTex:
 
 <pre>
 @inproceedings{goncalo-oliveira_etal:lrec2020,  
@@ -52,4 +52,19 @@ A <a href="https://www.aclweb.org/anthology/2020.lrec-1.669/">paper</a> on the c
 	Series = {LREC 2020},  
 	Title = {{AIA-BDE}: A Corpus of FAQs in Portuguese and their Variations},  
 	Year = {2020}}
+</pre>
+
+A second <a href="https://linguamatica.com/index.php/linguamatica/article/view/350">paper</a> describing version 2.1 of the corpus in Portuguese, with some additional experiments, was published in the Linguamática journal. See BibTex:
+
+<pre>
+@article{goncalo-oliveira_alves:linguamatica2021,
+	author = {Hugo {Gonçalo Oliveira} and Ana Alves},
+	journal = {Linguamática},
+	month = {December},
+	number = {2},
+	pages = {19--35},
+	title = {AIA-BDE: um Corpo de Perguntas, Variações e outras Anotções},
+	volume = {13},
+	year = {2021}}
+
 </pre>
